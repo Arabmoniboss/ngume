@@ -1,0 +1,157 @@
+/** {
+    box-sizing: border-box;
+}*/
+body   {
+    background: skyblue;
+    box-sizing: border-box;
+    margin: 0;
+    }
+    /*.backdrop  {
+          background: rgba(0, 0, 0, 0.5);
+          height: 100%;
+          width: 100%;
+          position: fixed;
+          z-index: 150;
+          top: 0;
+    }*/
+    .modal {
+          position: fixed;
+          display: inline-block;
+        background: rgb(223, 223, 29);;
+        z-index: 200;
+        left: 45%;
+        border-radius: 1rem;
+          top: 0;
+          box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    }
+    .modal h1 {
+          margin-top: 10px;
+          padding: 1rem;
+    }
+    .modal__actions {
+          text-align: center;
+          margin: 1rem;
+    }
+    .modal__action {
+          display: inline-block;
+          margin-right: 1rem;
+          text-decoration: none;
+          background:  rgba(248, 182, 218, 0.856);
+          color:  rgb(83, 33, 33);
+          padding: .5rem;
+          border: 1px solid rgba(0, 0, 0, 0.5);
+          border-radius: 0.5rem;
+          box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+          cursor: pointer;
+    }
+    .toggle-button {
+          display: inline-block;
+          width: 3rem;
+          background: rgb(223, 223, 29);
+          border: none;
+          cursor: pointer;
+          padding-top: 0;
+          padding-bottom: 0;
+          vertical-align: middle;
+          margin-top: 0.2rem;
+          border-radius: 8px;
+          margin-left: 0.2rem;
+    }
+    .toggle-button:focus {
+          outline: none;
+    }
+    .toggle-button__bar {
+          width: 100%;
+          height: 0.2rem;
+          background: black;
+          display: block;
+          margin: 0.6rem 0;
+    }
+    
+    .main-header {
+        background: rgb(46, 44, 44);
+        font-family:'Raleway', sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        padding: 0.3rem 0.6rem;
+        position: fixed;
+        width: 100%;
+        height: 60px;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        display: inline-block;
+    }
+    .main-header > div {
+          display: inline-block;
+          vertical-align: middle;
+    }
+    .main-brand {
+          color:rgb(223, 223, 29);
+          text-decoration:none;
+          font-weight: bold;
+          font-size: 1.4rem;
+          vertical-align: middle;
+          display: inline;
+    }     
+    .main-nav {
+          text-align: right; /* text-align: right; is applied looking from the dev.tools but didnt take the list to the right-hand side
+          of the page in my browser, bcos <ul> which is an inline-block element is sitting inside <nav> and hence, can only take the necessary
+          width needed. so we need to set the width of the <nav>. i.e the width of our <header> minus the width of the <div> and also remove the padding and marging
+          values that the <ul> has.*/ 
+          width: calc(100% - 0px);
+          display: inline-block;
+          height: 98px;
+          vertical-align: middle;
+          margin-top: 0;
+          
+      }
+    .main-header a {
+        text-decoration: none;
+        margin: 14px 0 0 15px;
+        text-align: right;
+        vertical-align: middle;
+        color: rgb(223, 223, 29);
+    }
+    .main-nav__lists {
+          margin: 0;
+        padding: 0;
+        list-style: none;
+       
+    }
+    .main-nav__lists li {
+          display: inline-block; /* NB: When an element is inline-block, you can't increase its top and bottom anymore. that means even if you add padding,
+          it will only take effect in the left and right sides of the content*/
+    margin: 0.6rem;
+    }
+    li > a {
+        padding: 5px 6px 1px 4px;
+        margin: 0;
+        background: rgb(113, 113, 197);
+        color: wheat;
+        vertical-align: middle;
+        height: 25px;
+        border-radius: 6px;
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    }
+    
+    .new > a {
+        border: 1px solid black;
+        color:rgb(83, 33, 33);
+        background:whitesmoke;
+        border-radius: 6px;
+        font-weight: 600px;
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    }
+    li > a:hover,
+    li > a:active {
+        background: rgb(223, 223, 29);
+          color:whitesmoke;
+          border-bottom: none;
+    }
+    .new > a:hover,
+    .new > a:active {
+          background:  rgba(248, 182, 218, 0.856);
+          color:whitesmoke;
+          border-bottom: none;
+    }

@@ -1,0 +1,115 @@
+html {
+    height: 100%;
+}
+body {
+    height: 80%;
+    display: grid;
+    grid-template-rows: 3rem 80vh 14rem;
+    grid-template-areas: "header"
+                          "main"
+                         "footer";
+    grid-gap: 1rem;
+}
+
+.main-header {
+    grid-area: header;
+}
+.modal {
+    position: fixed;
+    display: none;
+  background: rgba(255, 238, 0, 0.76);
+  z-index: 200;
+  left: 0;
+  border-radius: 1rem;
+    top: 0;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+section {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+   grid-template-rows: 34rem 0rem;
+    grid-template-areas: "side sec"
+                         ". ."           ;
+    justify-content: center;
+}
+.nav-accessories {
+    background: rgba(255, 238, 0, 0.76);
+    grid-area: side;
+    height: 60%;
+    align-self: center;
+}
+.accessories-lists {
+    display: block;
+    list-style:disc;
+    padding-left: 0.6rem;
+}
+.accessories-list {
+    font-family: "Poppins",sans-serif;
+    font-size: 1rem;
+    padding: 0.7rem 0;
+}
+.accessories-list > a:hover{
+    border-bottom: none;
+}
+iframe {
+    margin: 0.5rem;
+    margin-left: 0.2rem;
+    margin-top: 0;
+    border: 1px solid rgb(83, 33, 33);
+    height: 100%;
+    width: 95%;
+}
+
+.main-footer {
+    height: 4rem;
+}
+@media (min-width: 40rem) {
+    section {
+        display: grid;
+        grid-template-columns: 14rem 1fr;
+       grid-template-rows: 34rem 0rem;
+        grid-template-areas: "side sec"
+                             ". ."           ;
+        justify-content: center;
+    }
+    
+    .nav-accessories {
+        background: rgba(255, 238, 0, 0.76);
+       width: 20%;
+        min-width: 13rem;
+        height: 100%;
+        max-height: 100vh;
+        display: inline-block;
+        grid-area: side;
+        justify-self: start;
+
+    }
+    .accessories-lists {
+        display: block;
+        list-style: none;
+    }
+    .accessories-list {
+        font-family: "Poppins",sans-serif;
+        font-size: 2rem;
+        padding: 0.7rem 0;
+    }
+    .accessories-list > a:hover{
+        border-bottom: none;
+    }
+    iframe {
+        height: 100%;
+        min-width: 10rem;
+        width: 95%;
+       /* border: 7px solid rgb(83, 33, 33);*/
+        grid-area: sec;
+        justify-self: start;
+        margin: 0;
+        display: inline-block;
+    }
+.main-footer {
+    grid-area: footer;
+    justify-self: end;
+    margin-bottom: 0;
+    height: 14.4rem;
+}
+}

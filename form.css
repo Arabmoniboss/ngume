@@ -1,0 +1,20 @@
+[type] {
+    background: red;
+    border-color: darkblue;
+}
+[type="text"] {
+    background:yellowgreen;
+    border-color: darkgreen;
+}
+[type~="te"] {
+    background: blueviolet;
+    border-color: crimson;
+}
+[method*="post"] {
+    background: cyan;
+}
+[type="text"]:focus {
+    background: darkgray;
+    border-color: blue;
+    outline: none;
+}

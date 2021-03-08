@@ -1,0 +1,115 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    display: grid;
+    grid-template-rows: 0.5rem auto 8rem;
+}
+@media (min-width: 40rem) {
+    body {
+        height: 100vh;
+        grid-template-rows: 0.5rem auto 14rem;
+    }
+}
+section {
+    height: inherit;
+}
+.modal {
+    position: fixed;
+  display: none;
+  background: rgba(255, 238, 0, 0.76);
+  z-index: 200;
+  left: 0;
+  border-radius: 1rem;
+    top: 0;
+}
+.form {
+    margin: 4rem 0 2rem 1rem;
+    font-family:  "Poppins",sans-serif;
+    display: block;
+    
+}
+.form-name {
+    color: rgba(255, 238, 0, 0.76);
+    font-size: 1.5rem;
+}
+[type] {
+    display: block;
+    margin-bottom: 1rem;
+    width: 90%;
+    height: 5vh;
+    border-color: #ccc;
+}
+[type]:focus {
+        background: skyblue;
+        border-color:#ccc;
+        outline: #ccc;
+}
+
+[type*="submit"] {
+    background: rgba(255, 238, 0, 0.76);
+    color:  rgb(83, 33, 33);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+@media (min-width: 40rem) {
+    .form {
+        margin: 5rem 0 2rem 2.5rem;
+        font-family:  "Poppins",sans-serif;
+        display: block;
+        
+    }
+    .form-name {
+        color: rgba(255, 238, 0, 0.76);
+        font-size: 2.5rem;
+    }
+    [type] {
+        display: block;
+        margin-bottom: 1rem;
+        width: 30%;
+        height: 7vh;
+        border-color: #ccc;
+    }
+
+/*}
+.main-footer {
+    display: inline-block;
+    position: relative;
+    z-index: 50;
+    background: black;
+    width: 100vw;
+    bottom: -17.2rem;
+    margin-bottom: 0;
+}
+.main-footer__div {
+    color: blanchedalmond;
+    display: none;
+    vertical-align: top;
+    padding-left: 300px;
+}
+@media (min-width: 40rem) {
+    .main-footer {
+          display: inline-block;
+          background: black;
+          width: 100vw;
+          bottom: -4rem;
+    }
+    .main-footer__div {
+          color: blanchedalmond;
+          display: inline-block;
+          vertical-align: top;
+          padding-left: 300px;
+    } 
+    .call-us {
+          text-align: center;
+          color: blanchedalmond;
+          display: none;
+}
+}
+.call-us {
+    text-align: center;
+    color: blanchedalmond;
+}

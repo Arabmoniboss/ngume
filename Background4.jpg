@@ -1,0 +1,2856 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+<meta name="google-site-verification" content="qOntdIctkex8L4fX3XfDPn5U4uBWmdaEzwD8xlkzU7U" />
+
+  <script>
+    
+    window.wh_metafields = {};
+    window.wh_discount_value = 1;
+    window.settings = {"pluginseo_pageTitleTruncateChars":"999","pluginseo_pageTitleEnableAppender":true,"pluginseo_pageTitleAppenderTemplate":"| %% shop.name %%","pluginseo_pageTitleAppenderTargetLength":"70","pluginseo_pageTitleTemplateApplyToAll":true,"pluginseo_pageTitleDefaultTemplate":"%% page_title %% | Goodwear has been Made in USA since 1983 and creates simple, high quality basics that stand the test of time. | %% shop.name %%","pluginseo_pageTitleIndexTemplate":"Made in USA Clothing Brand Since 1983","pluginseo_pageTitlePageTemplate":"%% page_title %% | Goodwear has been Made in USA since 1983 and creates simple, high quality basics that stand the test of time.","pluginseo_pageTitleSearchTemplate":"Shop %% search.terms %% at %% shop.name %%","pluginseo_pageTitleProductTemplate":"%% product.title %%%% product.selected_variant.title || prepend_not_empty: ' ' %% | Made in USA, Sustainable, Comfortable, High Quality, Durable","pluginseo_pageTitleCollectionTemplate":"Shop %% current_tags || join: ', ' || append_not_empty: ' ' %%%% collection.title || escape %% at %% shop.name %%","pluginseo_pageTitleCatalogTemplate":"Browse %% collection.products || map: 'collections' || map: 'title' || uniq || take: '5' || join: ', ' || escape || remove: 'Home page, ' || remove: 'home page, '  || remove: 'Home page' || remove: 'Home page'  %% at %% shop.name %%","pluginseo_pageTitleBlogTemplate":"%% shop.name %% %% blog.title %%%% blog.all_tags || take: '5' || join: ', ' || prepend_not_empty: ' blog: ' || append_not_empty: ' and more' %%","pluginseo_pageTitleArticleTemplate":"%% article.title %%%% article.tags || take: '3' || join: ', ' || prepend_not_empty: ' | ' || append_not_empty: ' and more' %% | %% shop.name %% %% blog.title %% blog","pluginseo_pageTitle404Template":"404: Page Not Found - %% shop.name %%","pluginseo_metaDescriptionTruncateChars":"170","pluginseo_metaDescriptionTemplateApplyToAll":true,"pluginseo_metaDescriptionDefaultTemplate":"%% page_description %% Goodwear USA is an American Made Clothing brand that is passionate about creating simple, high quality clothing that is sustainable and durable. All of Goodwear's products are American Made using fair labor practices and materials that are not harmful to the environment.","pluginseo_metaDescriptionIndexTemplate":"Goodwear USA is a premium Made in USA clothing brand that specializes in quality, sustainable clothing. Shop our selection of quality Made in USA t-shirts and more.","pluginseo_metaDescriptionPageTemplate":"%% page.content || strip_newlines || strip_html || escape || append_not_empty: '.' %% Visit %% shop.name %% to Protect our planet and people buy wearing locally-made and sustainable clothing.","pluginseo_metaDescriptionSearchTemplate":"Find %% search.terms || default: 'it' %% here%% search.results || map: 'title' || take: '3' || join: ', ' || prepend_not_empty: ' including ' || append_not_empty: ' and more' %% at %% shop.name %%","pluginseo_metaDescriptionProductTemplate":"%% product.description || strip_newlines || replace: '.,', ',' || strip_html || escape %%","pluginseo_metaDescriptionCollectionTemplate":"%% collection.all_tags || take: '3' || join: ', ' || prepend_not_empty: 'Shop ' || append_not_empty: ' and more ' %%%% collection.title || escape %% at %% shop.name %%: Made in USA, Sustainable, Comfortable, High Quality, Durable %% collection.description || strip_html || strip_newlines || escape || strip %% Goodwear USA is an American Made Clothing brand that is passionate about creating simple, high quality clothing that is sustainable and durable. All of Goodwear's products are American Made using fair labor practices and materials that are not harmful to the environment.","pluginseo_metaDescriptionCatalogTemplate":"Discover %% collection.products || map: 'title' || uniq || take: '3' || join: ', ' || escape %% and more.","pluginseo_metaDescriptionBlogTemplate":"%% blog.articles || map: 'title' || take: '3' || join: ', ' || prepend_not_empty: 'Read about ' || append_not_empty: ' and more on the '%%%% shop.name %% %% blog.title %% blog.","pluginseo_metaDescriptionArticleTemplate":"%% article.excerpt_or_content || strip_newlines || strip_html || escape %%%% article.tags || take: '6' || join: ', ' || prepend_not_empty: ' Read about ' || append_not_empty: ' and more' %% %% article.title %% on the %% shop.name %% %% blog.title %% blog","pluginseo_metaDescription404Template":"The page you requested can't be found, please visit %% shop.domain %% instead","pluginseo_structuredDataDisplayLogo":true,"pluginseo_structuredDataSocialProfileLinks":"https:\/\/www.facebook.com\/GoodwearUSA\/\nhttps:\/\/www.instagram.com\/goodwearusa\/?hl=en\nhttps:\/\/twitter.com\/goodwearusa?lang=en","pluginseo_structuredDataReviewApp":"autodetect","color_body_bg":"#ffffff","color_body_text":"#000000","color_price":"#1c1d1d","color_savings_text":"#f04247","color_borders":"#e8e8e1","color_button":"#063d6f","color_button_text":"#ffffff","color_cart_dot":"#f04247","color_small_image_bg":"#fff","color_large_image_bg":"#0f0f0f","color_header":"#fff","color_header_text":"#000000","color_announcement":"#063d6f","color_announcement_text":"#fff","color_footer":"#ffffff","color_footer_text":"#000000","color_drawer_background":"#ffffff","color_drawer_text":"#000000","color_drawer_border":"#e8e8e1","color_drawer_button":"#111111","color_drawer_button_text":"#ffffff","color_modal_overlays":"#e6e6e6","color_image_text":"#fff","color_image_overlay":"#000","color_image_overlay_opacity":10,"color_image_overlay_text_shadow":10,"type_header_font_family":{"error":"json not allowed for this object"},"type_header_spacing":"-25","type_header_base_size":40,"type_header_line_height":1,"type_header_capitalize":false,"type_headers_align_text":true,"type_base_font_family":{"error":"json not allowed for this object"},"type_base_spacing":"25","type_base_size":18,"type_base_line_height":1.4,"type_body_align_text":true,"type_navigation_style":"body","type_navigation_size":19,"type_product_style":"body","type_collection_font":"heading","type_collection_size":26,"button_style":"square","icon_weight":"3px","icon_linecaps":"miter","vendor_enable":false,"sku_enable":true,"quantity_enable":true,"variant_type":"dropdown","enable_payment_button":false,"inventory_enable":true,"product_save_amount":true,"product_save_type":"dollar","product_zoom_enable":true,"quick_shop_enable":false,"quick_shop_text":"Quick view","product_grid_image_size":"natural","product_hover_image":true,"product_color_swatches":false,"collection_color_swatches":true,"product_video_width":"960","product_video_height":"1280","product_video_style":"muted","product_content_1":"","product_content_collapse_1":true,"product_content_2":"","product_content_collapse_2":true,"product_content_3":"","product_content_collapse_3":true,"product_contact":false,"product_contact_title":"Ask a question","product_contact_show_phone":false,"enable_product_reviews":true,"reviews_layout":"full","collection_grid_style":"overlaid","collection_grid_shape":"square","collection_grid_image":"product","collection_grid_text_align":"center","collection_grid_tint":"#000000","collection_grid_opacity":10,"collection_grid_gutter":true,"cart_type":"page","cart_additional_buttons":true,"cart_notes_enable":false,"cart_terms_conditions_enable":false,"cart_terms_conditions_link":null,"enable_currencies":false,"currency_format":"money_format","supported_currencies":"USD CAD INR GBP AUD EUR JPY","default_currency":"USD","social_facebook_link":"https:\/\/www.facebook.com\/GoodwearUSA\/","social_twitter_link":"https:\/\/twitter.com\/GoodwearUSA","social_pinterest_link":"https:\/\/www.pinterest.com\/goodwearusa\/","social_instagram_link":"https:\/\/www.instagram.com\/goodwearusa\/","social_snapchat_link":"","social_tumblr_link":"","social_linkedin_link":"","social_youtube_link":"","social_vimeo_link":"","share_facebook":true,"share_twitter":true,"share_pinterest":true,"homepage_social_image":null,"favicon":"\/\/cdn.shopify.com\/s\/files\/1\/1375\/0525\/files\/gw_3D_Circle_4C_b4eb84a0-91ad-4517-a392-978264bc51c2.png?v=1552934162","show_breadcrumbs":true,"search_results":"all","checkout_header_image":null,"checkout_logo_image":null,"checkout_logo_position":"center","checkout_logo_size":"small","checkout_body_background_image":null,"checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":null,"checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#111111","checkout_button_color":"#111111","checkout_error_color":"#ff6d6d","breadcrumb":true,"customer_layout":"customer_area"};
+	window.settings['cart_type'] = 'drawer';
+    
+    
+     
+
+    
+    
+  </script>
+  <style type="text/css">
+    
+    .wh-hidden{display: none;}.wh-cart-total {font-weight: bold;display: inline-block;  margin-top: 5px;font-size: 22px;color: #000000;background-color: #FFFF4D;} .additional-notes{text-align:right;background-color: #FFFF4D;color: #000000;font-size: 14px;} .booster-messages{display:block;}
+    #booster-discount-item{font-size:70%;padding-top: 5px;padding-bottom: 5px;} #booster-summary-item{font-size:70%;padding-top: 5px;padding-bottom: 5px;} input#booster-discount-code{max-width:200px;display:inline-block;} button#apply-booster-discount{display:inline-block;max-width:200px;}
+    
+  </style>
+      
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#063d6f">
+  <link rel="canonical" href="https://www.goodwear.com/blogs/news/how-to-choose-the-perfect-t-shirt-size">
+  <meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1375/0525/files/gw_3D_Circle_4C_b4eb84a0-91ad-4517-a392-978264bc51c2_32x32.png?v=1552934162" type="image/png" /><meta name="description" content="Learn how to choose the right T-shirt size at Goodwear USA! We offer a comprehensive online guide to T-shirt measurements, fits, styles, and more.">
+<meta property="og:site_name" content="Goodwear USA">
+  <meta property="og:url" content="https://www.goodwear.com/blogs/news/how-to-choose-the-perfect-t-shirt-size"><meta property="og:title" content="How to Choose the Perfect T-Shirt Size">
+<meta property="og:type" content="article">
+<meta property="og:description" content="
+Everyone loves t-shirts. They’re one of the most universal clothing items around. It doesn’t matter whether you’re a man or a woman, young or old. They’re great for sleeping in or going to the gym. They’re perfect to wear when you need to do some yard work or gardening. They’re comfortable and low-maintenance for a low-key Sunday of hanging out around the house watching TV.
+The Longevity Of The T-Shirt
+Trends have come and gone over the years, but the t-shirt is one staple that has been here a long time and doesn’t look like it’s going anywhere anytime soon. One of the reasons for this universal appeal is how many situations it’s good for. Another reason is how absolutely comfortable it is.
+While many button-downs, polos, sweaters or dress shirts feel stiff, or cling too tightly, or have uncomfortable collars, the t-shirt is soft, flexible and wonderfully comfortable.
+Another reason for the t-shirt’s popularity is how versatile it is. It can be worn on its own, or it can be worn underneath an open button-up, or it can be hidden underneath a sweater or other shirt for an extra layer of warmth. They can be a solid color, they can be patterned, or they can come in wild designs and covered with fun graphic pictures or quotes. They can look very casual, or they can look a little bit dressier, particularly if you choose a solid color and wear it with a nice pair of blue jeans or khakis.
+
+Finding The Perfect T-Shirt Size
+What is not so great about t-shirts is how difficult it can be to find one that fits properly. In some cases, choosing the right t-Shirt can be annoyingly complicated. It’s something that seems like it should be easy, but in reality, is very complicated. Many t-shirts seem to cling in the wrong places, or hang awkwardly like a box or look awkward and ill-fitting in some other way.
+At Goodwear, we believe that finding a t-shirt that fits you properly shouldn’t be so complicated. To help you learn how to find the perfect t-shirt fit for you and your body, we’ve put together some tips and tricks.
+
+5 Tips &amp; Tricks For Finding The Perfect T-Shirt
+It would be nice if t-shirt sizes were standard, and that if every time you picked up a size medium in any store, it was exactly the same size. Unfortunately, a medium in some stores is the size of an extra large in other stores.
+Because of the raging disparity in what the size label actually means, it’s difficult to determine what size t-shirt you should be wearing.
+The solution? Stop worrying so much about what size you are. Most likely, you’ll be a different size at every store you visit. Instead, try on a variety of sizes every place you go, and use your best judgment as you evaluate how the shirt looks on you to determine what size to buy.
+When determining how a t-shirt should fit, here are some things to look for:
+1. Size/Tightness
+A t-shirt that fits correctly should be neither too tight nor too loose. If it’s too loose, it’ll hang on you like a box and look completely unflattering. If it’s too tight, it’ll look like you’re squeezed into it and are about to burst the seams at any point — a look that will almost certainly come across as conceited and annoying.
+2. Shoulder Seams
+The shoulder seams are a good way to tell how well a shirt fits you. Ideally, these seams should reach to the end of your shoulder at the very top of your arm. If they extend down your upper arm, the shirt is too big. If they don’t reach the end of your shoulder, the shirt is too small.
+3. Sleeves
+The sleeves should extend about halfway down your upper arm. If you’re exceptionally tall, you might be safe wearing sleeves that are slightly longer, as these will look more proportional.
+4. Length
+The bottom hem of your t-shirt shouldn’t hit any higher than your hips, or it’s too small. It should cover your waistband and extend a few inches past that. If it’s shorter than that, it’ll look like a crop top when you raise your arms. If it’s longer than that, it’ll look like a dress. When trying on a t-shirt, make sure you raise your arms to see how far it rides up.
+5. Shape
+Many cheap t-shirts have no shape to them at all. They hang like boxes when you put them on and are extremely unattractive. Search instead for a t-shirt that follows the lines of your body a little more. Avoid any that are cut in the shapes of large squares.
+How to Measure Yourself for a T-Shirt
+When it comes to choosing a size for a t-shirt, the sizes can be all over the map. This often makes them less than helpful. In some cases, however, the store or brand may provide a sizing chart.
+A t-shirt sizing chart like ours can be helpful because it breaks down a list of measurements and tells you what size those measurements will add up to. This makes it easy to glance at the chart for your size chest, for example, and see what size shirt someone with that measurement ought to wear.
+When it comes to measuring yourself for a t-shirt, here are the measurements you should take:
+1. Chest
+
+To measure your chest, wrap the tape measure under your armpits and around the fullest part of your chest. It’s important to stand normally, without flexing or puffing out your chest. The tape measure should be snug, but it shouldn’t be so tight that it hampers your breathing.
+2. Length
+The bottom hem of your t-shirt should go a few inches below your waistband. To measure the length you need, stand straight and measure from the high point of your shoulder to below your waist.
+How to Pick a T-Shirt for Your Body Type
+Before you can pick the t-shirt that will look perfect on your body type, you have to know what your body type is. Let’s run through the most common body types briefly.
+
+
+Rectangle: This body type is fairly self-explanatory. This means your shoulders and your waist are roughly the same width, giving a rectangular shape. People with this body type tend to be tall and slightly built.
+
+Oval: The oval body type is very similar to the rectangle build, but it normally involves a larger frame and a softer middle.
+
+Trapezoid: With this body type, the shoulders are wider than the waist. This is the body type that many associate with a sports star or a traditional Hollywood heartthrob.
+
+Inverted Triangle: This body type is the trapezoid taken to the extreme. The shoulders are much wider than the waist, and the shoulder-to-waist ratio forms an upside down triangle.
+
+Non-Inverted Triangle: The exact opposite of the inverted triangle, this body type is distinguished by a waist that is wider than the shoulders.
+
+The 3 Common T-Shirt Fits
+The general rule of thumb when it comes to t-shirts is the same rule that governs most clothing. If you have muscle, don’t hide it. If you don’t have a lot of muscle, do your best to play up what you do have. And if you’re carrying extra weight, many styles will help you mask that.
+A quick breakdown of some of the most common styles of T-shirts includes:
+
+
+Slim Fit: This fit is meant to be tighter on your body. This is the perfect T-shirt if you are looking to show off your figure.
+
+
+
+Classic Fit: If you are looking for a looser and comfortable fit a classic fit T-shirt is the perfect choice!
+
+
+
+Modern Fit: Are you looking for a structured and stylish fit that does not hug your body? A modern fit t-shirt is the perfect solution for you.
+
+Why It’s Important to Invest in High-Quality T-Shirts
+Anyone can go to their local department or super store and pick up a TtShirt for a few dollars. Plenty of people do, and there’s certainly nothing wrong with that.
+However, there are several notable down sides to buying those kinds of t-shirts. The biggest difference is the lack of quality. These TtShirts are cheap, which means they’re affordable, but it also means they aren’t likely to last very long. You might have them for a season or a year, but they’ll soon rip, tear and lose their vibrant color.
+Many cheap t-Shirts are also made of cheap material that is uncomfortable and scratchy to the touch. They also tend to shrink in the wash, meaning that you only get a few good wears out of it before it’s too small for you.
+It’s worth it to spend a little more and buy a high quality t-shirt. The cost will be more than offset by how long it will last you. One nice t-shirt can last you for years, whereas you might have to buy three or four cheaper t-shirts to make it through the same amount of time.
+A more expensive t-Shirt will also be more comfortable. The fabric will be softer and gentler on your skin. It’ll wash better, and won’t shrink or lose its shape.
+When you buy a more expensive t-shirt, you’re also more likely to find a size that fits you better and is more flattering to you. Many cheaply made t-shirts are cut in very standard, square box shapes that aren’t flattering on anyone. To find a shape and a design that really flatters your body, you’re going to have to spend a little extra money to get the quality that will come with a well-designed t-shirt.
+
+What Makes Our T-Shirts Different
+At Goodwear, we believe that every t-shirt you buy should be the perfect t-shirt. We believe in selling you quality products that have been proudly manufactured right here in the USA. We prioritize quality over everything else and are wholly committed to producing top-quality clothing items that will last for years to come without getting holes, stretching out, shrinking or fading.
+We know that everyone is looking for their perfect t-shirt. Whether you’ve never been able to find the right one because you can’t find the right size, or because the ones you’ve bought in the past keep ripping or losing their shape, we understand that struggle.
+We’re confident that when you buy one of our carefully-crafted high-quality t-shirts, your t-shirt search will be over, and you’ll look no further for the perfect shirt. When you buy t-shirts from us, you’re investing in wardrobe staples that will last you for years to come.
+What makes our shirt so special is the care and effort that we devote to making them. They manufactured in the USA, meaning they aren’t being produced cheaply overseas. We’re committed to making high-quality products because we believe that you don’t deserve anything less.
+
+Shop Goodwear T-Shirts Today
+We hope you’re convinced of how worthwhile it is to invest in great wardrobe staples like t-shirts. And we hope you’ll consider shopping at Goodwear to fulfill those needs.
+For almost 35 years, Goodwear has been a proud manufacturer of American-made clothing items, and our work and our reputation has only grown stronger from there. When you shop with us, you can feel confident that you’re supporting an American company that’s committed to delivering quality goods every time.
+">
+<meta property="og:image" content="http://cdn.shopify.com/s/files/1/1375/0525/articles/t-shirt_size_7_1200x630.jpg?v=1585242235">
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1375/0525/articles/t-shirt_size_7_1200x630.jpg?v=1585242235">
+  <meta name="twitter:site" content="@GoodwearUSA">
+  <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="How to Choose the Perfect T-Shirt Size">
+<meta name="twitter:description" content="
+Everyone loves t-shirts. They’re one of the most universal clothing items around. It doesn’t matter whether you’re a man or a woman, young or old. They’re great for sleeping in or going to the gym. They’re perfect to wear when you need to do some yard work or gardening. They’re comfortable and low-maintenance for a low-key Sunday of hanging out around the house watching TV.
+The Longevity Of The T-Shirt
+Trends have come and gone over the years, but the t-shirt is one staple that has been here a long time and doesn’t look like it’s going anywhere anytime soon. One of the reasons for this universal appeal is how many situations it’s good for. Another reason is how absolutely comfortable it is.
+While many button-downs, polos, sweaters or dress shirts feel stiff, or cling too tightly, or have uncomfortable collars, the t-shirt is soft, flexible and wonderfully comfortable.
+Another reason for the t-shirt’s popularity is how versatile it is. It can be worn on its own, or it can be worn underneath an open button-up, or it can be hidden underneath a sweater or other shirt for an extra layer of warmth. They can be a solid color, they can be patterned, or they can come in wild designs and covered with fun graphic pictures or quotes. They can look very casual, or they can look a little bit dressier, particularly if you choose a solid color and wear it with a nice pair of blue jeans or khakis.
+
+Finding The Perfect T-Shirt Size
+What is not so great about t-shirts is how difficult it can be to find one that fits properly. In some cases, choosing the right t-Shirt can be annoyingly complicated. It’s something that seems like it should be easy, but in reality, is very complicated. Many t-shirts seem to cling in the wrong places, or hang awkwardly like a box or look awkward and ill-fitting in some other way.
+At Goodwear, we believe that finding a t-shirt that fits you properly shouldn’t be so complicated. To help you learn how to find the perfect t-shirt fit for you and your body, we’ve put together some tips and tricks.
+
+5 Tips &amp; Tricks For Finding The Perfect T-Shirt
+It would be nice if t-shirt sizes were standard, and that if every time you picked up a size medium in any store, it was exactly the same size. Unfortunately, a medium in some stores is the size of an extra large in other stores.
+Because of the raging disparity in what the size label actually means, it’s difficult to determine what size t-shirt you should be wearing.
+The solution? Stop worrying so much about what size you are. Most likely, you’ll be a different size at every store you visit. Instead, try on a variety of sizes every place you go, and use your best judgment as you evaluate how the shirt looks on you to determine what size to buy.
+When determining how a t-shirt should fit, here are some things to look for:
+1. Size/Tightness
+A t-shirt that fits correctly should be neither too tight nor too loose. If it’s too loose, it’ll hang on you like a box and look completely unflattering. If it’s too tight, it’ll look like you’re squeezed into it and are about to burst the seams at any point — a look that will almost certainly come across as conceited and annoying.
+2. Shoulder Seams
+The shoulder seams are a good way to tell how well a shirt fits you. Ideally, these seams should reach to the end of your shoulder at the very top of your arm. If they extend down your upper arm, the shirt is too big. If they don’t reach the end of your shoulder, the shirt is too small.
+3. Sleeves
+The sleeves should extend about halfway down your upper arm. If you’re exceptionally tall, you might be safe wearing sleeves that are slightly longer, as these will look more proportional.
+4. Length
+The bottom hem of your t-shirt shouldn’t hit any higher than your hips, or it’s too small. It should cover your waistband and extend a few inches past that. If it’s shorter than that, it’ll look like a crop top when you raise your arms. If it’s longer than that, it’ll look like a dress. When trying on a t-shirt, make sure you raise your arms to see how far it rides up.
+5. Shape
+Many cheap t-shirts have no shape to them at all. They hang like boxes when you put them on and are extremely unattractive. Search instead for a t-shirt that follows the lines of your body a little more. Avoid any that are cut in the shapes of large squares.
+How to Measure Yourself for a T-Shirt
+When it comes to choosing a size for a t-shirt, the sizes can be all over the map. This often makes them less than helpful. In some cases, however, the store or brand may provide a sizing chart.
+A t-shirt sizing chart like ours can be helpful because it breaks down a list of measurements and tells you what size those measurements will add up to. This makes it easy to glance at the chart for your size chest, for example, and see what size shirt someone with that measurement ought to wear.
+When it comes to measuring yourself for a t-shirt, here are the measurements you should take:
+1. Chest
+
+To measure your chest, wrap the tape measure under your armpits and around the fullest part of your chest. It’s important to stand normally, without flexing or puffing out your chest. The tape measure should be snug, but it shouldn’t be so tight that it hampers your breathing.
+2. Length
+The bottom hem of your t-shirt should go a few inches below your waistband. To measure the length you need, stand straight and measure from the high point of your shoulder to below your waist.
+How to Pick a T-Shirt for Your Body Type
+Before you can pick the t-shirt that will look perfect on your body type, you have to know what your body type is. Let’s run through the most common body types briefly.
+
+
+Rectangle: This body type is fairly self-explanatory. This means your shoulders and your waist are roughly the same width, giving a rectangular shape. People with this body type tend to be tall and slightly built.
+
+Oval: The oval body type is very similar to the rectangle build, but it normally involves a larger frame and a softer middle.
+
+Trapezoid: With this body type, the shoulders are wider than the waist. This is the body type that many associate with a sports star or a traditional Hollywood heartthrob.
+
+Inverted Triangle: This body type is the trapezoid taken to the extreme. The shoulders are much wider than the waist, and the shoulder-to-waist ratio forms an upside down triangle.
+
+Non-Inverted Triangle: The exact opposite of the inverted triangle, this body type is distinguished by a waist that is wider than the shoulders.
+
+The 3 Common T-Shirt Fits
+The general rule of thumb when it comes to t-shirts is the same rule that governs most clothing. If you have muscle, don’t hide it. If you don’t have a lot of muscle, do your best to play up what you do have. And if you’re carrying extra weight, many styles will help you mask that.
+A quick breakdown of some of the most common styles of T-shirts includes:
+
+
+Slim Fit: This fit is meant to be tighter on your body. This is the perfect T-shirt if you are looking to show off your figure.
+
+
+
+Classic Fit: If you are looking for a looser and comfortable fit a classic fit T-shirt is the perfect choice!
+
+
+
+Modern Fit: Are you looking for a structured and stylish fit that does not hug your body? A modern fit t-shirt is the perfect solution for you.
+
+Why It’s Important to Invest in High-Quality T-Shirts
+Anyone can go to their local department or super store and pick up a TtShirt for a few dollars. Plenty of people do, and there’s certainly nothing wrong with that.
+However, there are several notable down sides to buying those kinds of t-shirts. The biggest difference is the lack of quality. These TtShirts are cheap, which means they’re affordable, but it also means they aren’t likely to last very long. You might have them for a season or a year, but they’ll soon rip, tear and lose their vibrant color.
+Many cheap t-Shirts are also made of cheap material that is uncomfortable and scratchy to the touch. They also tend to shrink in the wash, meaning that you only get a few good wears out of it before it’s too small for you.
+It’s worth it to spend a little more and buy a high quality t-shirt. The cost will be more than offset by how long it will last you. One nice t-shirt can last you for years, whereas you might have to buy three or four cheaper t-shirts to make it through the same amount of time.
+A more expensive t-Shirt will also be more comfortable. The fabric will be softer and gentler on your skin. It’ll wash better, and won’t shrink or lose its shape.
+When you buy a more expensive t-shirt, you’re also more likely to find a size that fits you better and is more flattering to you. Many cheaply made t-shirts are cut in very standard, square box shapes that aren’t flattering on anyone. To find a shape and a design that really flatters your body, you’re going to have to spend a little extra money to get the quality that will come with a well-designed t-shirt.
+
+What Makes Our T-Shirts Different
+At Goodwear, we believe that every t-shirt you buy should be the perfect t-shirt. We believe in selling you quality products that have been proudly manufactured right here in the USA. We prioritize quality over everything else and are wholly committed to producing top-quality clothing items that will last for years to come without getting holes, stretching out, shrinking or fading.
+We know that everyone is looking for their perfect t-shirt. Whether you’ve never been able to find the right one because you can’t find the right size, or because the ones you’ve bought in the past keep ripping or losing their shape, we understand that struggle.
+We’re confident that when you buy one of our carefully-crafted high-quality t-shirts, your t-shirt search will be over, and you’ll look no further for the perfect shirt. When you buy t-shirts from us, you’re investing in wardrobe staples that will last you for years to come.
+What makes our shirt so special is the care and effort that we devote to making them. They manufactured in the USA, meaning they aren’t being produced cheaply overseas. We’re committed to making high-quality products because we believe that you don’t deserve anything less.
+
+Shop Goodwear T-Shirts Today
+We hope you’re convinced of how worthwhile it is to invest in great wardrobe staples like t-shirts. And we hope you’ll consider shopping at Goodwear to fulfill those needs.
+For almost 35 years, Goodwear has been a proud manufacturer of American-made clothing items, and our work and our reputation has only grown stronger from there. When you shop with us, you can feel confident that you’re supporting an American company that’s committed to delivering quality goods every time.
+">
+
+
+  <style data-shopify>
+  @font-face {
+  font-family: "DIN Next";
+  font-weight: 700;
+  font-style: normal;
+  src: url("https://fonts.shopifycdn.com/din_next/dinnext_n7.57888b0b2051a4dba7d02aad7ca64db99eca3cf1.woff2?h1=Z29vZHdlYXIuY29t&hmac=07a69c463fd3f476d5c2e55ed499ec36315046ab47ba1422bb69f3d563030fac") format("woff2"),
+       url("https://fonts.shopifycdn.com/din_next/dinnext_n7.8ca52ee0f403ce0c89c90387f16284e4637c1b10.woff?h1=Z29vZHdlYXIuY29t&hmac=26f4cd9347e8a210d96b1351bd6354da3bc4ed2fdbd3391923843eebd2f0571c") format("woff");
+}
+
+  @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  src: url("https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Z29vZHdlYXIuY29t&hmac=3ba64688fc9b053177733dcd1248870abd261ac823cb4f82cfaffa1155ba09af") format("woff2"),
+       url("https://fonts.shopifycdn.com/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Z29vZHdlYXIuY29t&hmac=3242c7815a4ab0e74de94b5c9d6bd0544a20a7695afba9d075337cba07c316ba") format("woff");
+}
+
+
+  @font-face {
+  font-family: Assistant;
+  font-weight: 700;
+  font-style: normal;
+  src: url("https://fonts.shopifycdn.com/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=Z29vZHdlYXIuY29t&hmac=21a1fec6d001b84f9ceb86a7abba06ffab39b95f5bb77b958d43feb358fef432") format("woff2"),
+       url("https://fonts.shopifycdn.com/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=Z29vZHdlYXIuY29t&hmac=d2da3539af56b4e4531650474e68ce2e86df0e136d412f14d36dfc37f14cdeb0") format("woff");
+}
+
+  
+  
+</style>
+
+  <link href="//cdn.shopify.com/s/files/1/1375/0525/t/51/assets/theme.scss.css?v=14717195386033201301" rel="stylesheet" type="text/css" media="all" />
+
+  <style data-shopify>
+    .collection-item__title {
+      font-size: 20.8px;
+    }
+
+    @media screen and (min-width: 769px) {
+      .collection-item__title {
+        font-size: 26px;
+      }
+    }
+  </style>
+
+  <script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+
+    window.theme = window.theme || {};
+    theme.strings = {
+      addToCart: "Add to cart",
+      soldOut: "Sold Out",
+      unavailable: "Unavailable",
+      stockLabel: "[count] in stock",
+      savePrice: "Save [saved_amount]",
+      cartSavings: "You're saving [savings]",
+      cartEmpty: "Your cart is currently empty.",
+      cartTermsConfirmation: "You must agree with the terms and conditions of sales to check out"
+    };
+    theme.settings = {
+      cartType: "drawer",
+      moneyFormat: "${{amount}}",
+      saveType: "dollar",
+      recentlyViewedEnabled: false,
+      quickView: false,
+      themeVersion: "1.4.0"
+    };
+  </script>
+<script>
+  var selectCallback = function(variant, selector) {
+    if (variant) {
+    	$('.product__inventory').html(variant.inventory + 'in stock')
+        console.log('changed');
+    }
+  };
+</script>
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="apple-itunes-app" content="app-id=1275810624">
+<meta name="google-site-verification" content="HzUQZTWT-dgGQmyX3HT1pUMRW_2NspKFKIvtj5zQJmI">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/13750525/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="51fa43898361ab0ec5472a7db255c288">
+<meta id="in-context-paypal-metadata" data-shop-id="13750525" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A21TTX4U06LFHV" data-amazon-payments-callback-url="https://www.goodwear.com/13750525/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.1bc7516f27eb4be1bad53e799b3abe9f" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/news.atom" />
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":13750525,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/13750525","merchantName":"Goodwear USA","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","jcb","elo"],"total":{"type":"pending","label":"Goodwear USA","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"51fa43898361ab0ec5472a7db255c288","betas":["rich-media-storefront-analytics"],"domain":"www.goodwear.com","predictiveSearch":true,"shopId":13750525,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "goodwearusa.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"Impulse-- RFM Page sections","id":81865015409,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/api.ns8.com\/v1\/analytics\/script\/73691136?name=latestVisitors\u0026shop=goodwearusa.myshopify.com","\/\/staticw2.yotpo.com\/4BrWaxrZxk1IEZjwQnEEAtNaAhZIGEml6WPtY5yQ\/widget.js?shop=goodwearusa.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=JjAacd\u0026shop=goodwearusa.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":13750525,"offset":-18000,"reqid":"d9e28912-920e-49f0-9448-03f9a86e8c23","pageurl":"www.goodwear.com\/blogs\/news\/how-to-choose-the-perfect-t-shirt-size","s":"articles-222266893","u":"25229b9835f5","p":"article","rtyp":"article","rid":222266893};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window['GoogleAnalyticsObject'] = 'ga';
+window['ga'] = window['ga'] || function() {
+  (window['ga'].q = window['ga'].q || []).push(arguments);
+};
+window['ga'].l = 1 * new Date();</script>
+<script>var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-29086075-1', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"article","resourceType":"article","resourceId":222266893}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1) {
+      return true;
+    }
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 13750525,
+      theme_id: 81865015409,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.a371b3c5dcd102bda5f5ad38a5935fc3c874a1fe.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.a371b3c5dcd102bda5f5ad38a5935fc3c874a1fe.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.a371b3c5dcd102bda5f5ad38a5935fc3c874a1fe.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":13750525,"isMerchantRequest":null,"themeId":81865015409,"themeCityHash":"1513925268393319859","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"isPixelGateEnabled":true},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Facebook Pixel":{"pixelIds":["277873169361357","268594033566500"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"AW-1000293834","eventLabels":[{"type":"page_view","action_label":"AW-1000293834\/J77wCIXUkaEBEMqL_dwD"},{"type":"purchase","action_label":"AW-1000293834\/Gm36CIjUkaEBEMqL_dwD"},{"type":"view_item","action_label":"AW-1000293834\/ECd2CIvUkaEBEMqL_dwD"},{"type":"add_to_cart","action_label":"AW-1000293834\/iXS2CI7UkaEBEMqL_dwD"},{"type":"begin_checkout","action_label":"AW-1000293834\/DumVCJHUkaEBEMqL_dwD"},{"type":"search","action_label":"AW-1000293834\/LYw3CJTUkaEBEMqL_dwD"},{"type":"add_payment_info","action_label":"AW-1000293834\/vMm_CJfUkaEBEMqL_dwD"}],"targetCountry":"US"},"Session Attribution":{},"Customer Events API":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.application = "storefront-renderer";
+        window.BOOMR.themeName = "Impulse";
+        window.BOOMR.themeVersion = "1.4.0";
+        window.BOOMR.shopId = 13750525;
+        window.BOOMR.themeId = 81865015409;
+        window.BOOMR.url =
+          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        var parentNode = where.parentNode;
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({
+              producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+              ResourceTiming: {
+                enabled: true,
+                trackedResourceTypes: ["script", "img", "css"]
+              },
+            });
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({
+                producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+                ResourceTiming: {
+                  enabled: true,
+                  trackedResourceTypes: ["script", "img", "css"]
+                },
+              });
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+    
+
+    
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"article","resourceType":"article","resourceId":222266893}
+        );
+      
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-68ba3f1321f00bf07cb78a03841621079812265e950cdccade3463749ea2705e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script>!function(e){e.addEventListener("DOMContentLoaded",function(){var t;null!==e.querySelector('form[action^="/contact"] input[name="form_type"][value="contact"]')&&(window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"},(t=e.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.1/index.js"),e.body.appendChild(t))})}(document);</script>
+<script integrity="sha256-uSLOYmFkiiHQiZooxkZsgzToP+kO7AcOqQfmNehSXmc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-b922ce6261648a21d0899a28c6466c8334e83fe90eec070ea907e635e8525e67.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20190107"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+<script async="async" src="https://www.google-analytics.com/analytics.js"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 300px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script><script type="application/vnd.locksmith+json" data-locksmith>{"version":"v5.38","locked":false,"scope":"article","access_granted":true,"access_denied":false,"manual_lock":false,"server_lock":false,"server_rendered":false,"hide_resource":false,"hide_links_to_resource":false,"transparent":true,"locks":{"all":[],"opened":[]},"keys":[],"keys_signature":"2f295a3eafdec793389b5920697a325c55287837b50aae37946c071578c1293e","state":{"template":"article","theme":81865015409,"product":null,"collection":null,"page":null,"blog":"news","article":"222266893","app":null},"shop":{"customer_accounts_enabled":true},"now":1612637532,"path":"/blogs/news/how-to-choose-the-perfect-t-shirt-size","canonical_url":"https:\/\/www.goodwear.com\/blogs\/news\/how-to-choose-the-perfect-t-shirt-size","customer_id":null,"customer_id_signature":"2f295a3eafdec793389b5920697a325c55287837b50aae37946c071578c1293e","cart":null}</script><script data-locksmith>!function(){var require=void 0,reqwest=function(){function succeed(e){var t=protocolRe.exec(e.url);return t=t&&t[1]||context.location.protocol,httpsRe.test(t)?twoHundo.test(e.request.status):!!e.request.response}function handleReadyState(e,t,s){return function(){return e._aborted?s(e.request):e._timedOut?s(e.request,"Request is aborted: timeout"):void(e.request&&4==e.request[readyState]&&(e.request.onreadystatechange=noop,succeed(e)?t(e.request):s(e.request)))}}function setHeaders(e,t){var s,o=t.headers||{};o.Accept=o.Accept||defaultHeaders.accept[t.type]||defaultHeaders.accept["*"];var n="undefined"!=typeof FormData&&t.data instanceof FormData;!t.crossOrigin&&!o[requestedWith]&&(o[requestedWith]=defaultHeaders.requestedWith),!o[contentType]&&!n&&(o[contentType]=t.contentType||defaultHeaders.contentType);for(s in o)o.hasOwnProperty(s)&&"setRequestHeader"in e&&e.setRequestHeader(s,o[s])}function setCredentials(e,t){"undefined"!=typeof t.withCredentials&&"undefined"!=typeof e.withCredentials&&(e.withCredentials=!!t.withCredentials)}function generalCallback(e){lastValue=e}function urlappend(e,t){return e+(/[?]/.test(e)?"&":"?")+t}function handleJsonp(e,t,s,o){var n=uniqid++,r=e.jsonpCallback||"callback",i=e.jsonpCallbackName||reqwest.getcallbackPrefix(n),a=new RegExp("((^|[?]|&)"+r+")=([^&]+)"),c=o.match(a),l=doc.createElement("script"),u=0,m=-1!==navigator.userAgent.indexOf("MSIE 10.0");return c?"?"===c[3]?o=o.replace(a,"$1="+i):i=c[3]:o=urlappend(o,r+"="+i),context[i]=generalCallback,l.type="text/javascript",l.src=o,l.async=!0,"undefined"!=typeof l.onreadystatechange&&!m&&(l.htmlFor=l.id="_reqwest_"+n),l.onload=l.onreadystatechange=function(){return l[readyState]&&"complete"!==l[readyState]&&"loaded"!==l[readyState]||u?!1:(l.onload=l.onreadystatechange=null,l.onclick&&l.onclick(),t(lastValue),lastValue=void 0,head.removeChild(l),u=1,void 0)},head.appendChild(l),{abort:function(){l.onload=l.onreadystatechange=null,s({},"Request is aborted: timeout",{}),lastValue=void 0,head.removeChild(l),u=1}}}function getRequest(e,t){var s,o=this.o,n=(o.method||"GET").toUpperCase(),r="string"==typeof o?o:o.url,i=o.processData!==!1&&o.data&&"string"!=typeof o.data?reqwest.toQueryString(o.data):o.data||null,a=!1;return("jsonp"==o.type||"GET"==n)&&i&&(r=urlappend(r,i),i=null),"jsonp"==o.type?handleJsonp(o,e,t,r):(s=o.xhr&&o.xhr(o)||xhr(o),s.open(n,r,o.async===!1?!1:!0),setHeaders(s,o),setCredentials(s,o),context[xDomainRequest]&&s instanceof context[xDomainRequest]?(s.onload=e,s.onerror=t,s.onprogress=function(){},a=!0):s.onreadystatechange=handleReadyState(this,e,t),o.before&&o.before(s),a?setTimeout(function(){s.send(i)},200):s.send(i),s)}function Reqwest(e,t){this.o=e,this.fn=t,init.apply(this,arguments)}function setType(e){return null===e?void 0:e.match("json")?"json":e.match("javascript")?"js":e.match("text")?"html":e.match("xml")?"xml":void 0}function init(o,fn){function complete(e){for(o.timeout&&clearTimeout(self.timeout),self.timeout=null;self._completeHandlers.length>0;)self._completeHandlers.shift()(e)}function success(resp){var type=o.type||resp&&setType(resp.getResponseHeader("Content-Type"));resp="jsonp"!==type?self.request:resp;var filteredResponse=globalSetupOptions.dataFilter(resp.responseText,type),r=filteredResponse;try{resp.responseText=r}catch(e){}if(r)switch(type){case"json":try{resp=context.JSON?context.JSON.parse(r):eval("("+r+")")}catch(err){return error(resp,"Could not parse JSON in response",err)}break;case"js":resp=eval(r);break;case"html":resp=r;break;case"xml":resp=resp.responseXML&&resp.responseXML.parseError&&resp.responseXML.parseError.errorCode&&resp.responseXML.parseError.reason?null:resp.responseXML}for(self._responseArgs.resp=resp,self._fulfilled=!0,fn(resp),self._successHandler(resp);self._fulfillmentHandlers.length>0;)resp=self._fulfillmentHandlers.shift()(resp);complete(resp)}function timedOut(){self._timedOut=!0,self.request.abort()}function error(e,t,s){for(e=self.request,self._responseArgs.resp=e,self._responseArgs.msg=t,self._responseArgs.t=s,self._erred=!0;self._errorHandlers.length>0;)self._errorHandlers.shift()(e,t,s);complete(e)}this.url="string"==typeof o?o:o.url,this.timeout=null,this._fulfilled=!1,this._successHandler=function(){},this._fulfillmentHandlers=[],this._errorHandlers=[],this._completeHandlers=[],this._erred=!1,this._responseArgs={};var self=this;fn=fn||function(){},o.timeout&&(this.timeout=setTimeout(function(){timedOut()},o.timeout)),o.success&&(this._successHandler=function(){o.success.apply(o,arguments)}),o.error&&this._errorHandlers.push(function(){o.error.apply(o,arguments)}),o.complete&&this._completeHandlers.push(function(){o.complete.apply(o,arguments)}),this.request=getRequest.call(this,success,error)}function reqwest(e,t){return new Reqwest(e,t)}function normalize(e){return e?e.replace(/\r?\n/g,"\r\n"):""}function serial(e,t){var s,o,n,r,i=e.name,a=e.tagName.toLowerCase(),c=function(e){e&&!e.disabled&&t(i,normalize(e.attributes.value&&e.attributes.value.specified?e.value:e.text))};if(!e.disabled&&i)switch(a){case"input":/reset|button|image|file/i.test(e.type)||(s=/checkbox/i.test(e.type),o=/radio/i.test(e.type),n=e.value,(!s&&!o||e.checked)&&t(i,normalize(s&&""===n?"on":n)));break;case"textarea":t(i,normalize(e.value));break;case"select":if("select-one"===e.type.toLowerCase())c(e.selectedIndex>=0?e.options[e.selectedIndex]:null);else for(r=0;e.length&&r<e.length;r++)e.options[r].selected&&c(e.options[r])}}function eachFormElement(){var e,t,s=this,o=function(e,t){var o,n,r;for(o=0;o<t.length;o++)for(r=e[byTag](t[o]),n=0;n<r.length;n++)serial(r[n],s)};for(t=0;t<arguments.length;t++)e=arguments[t],/input|select|textarea/i.test(e.tagName)&&serial(e,s),o(e,["input","select","textarea"])}function serializeQueryString(){return reqwest.toQueryString(reqwest.serializeArray.apply(null,arguments))}function serializeHash(){var e={};return eachFormElement.apply(function(t,s){t in e?(e[t]&&!isArray(e[t])&&(e[t]=[e[t]]),e[t].push(s)):e[t]=s},arguments),e}function buildParams(e,t,s,o){var n,r,i,a=/\[\]$/;if(isArray(t))for(r=0;t&&r<t.length;r++)i=t[r],s||a.test(e)?o(e,i):buildParams(e+"["+("object"==typeof i?r:"")+"]",i,s,o);else if(t&&"[object Object]"===t.toString())for(n in t)buildParams(e+"["+n+"]",t[n],s,o);else o(e,t)}var context=this;if("window"in context)var doc=document,byTag="getElementsByTagName",head=doc[byTag]("head")[0];else{var XHR2;try{XHR2=require("xhr2")}catch(ex){throw new Error("Peer dependency `xhr2` required! Please npm install xhr2")}}var httpsRe=/^http/,protocolRe=/(^\w+):\/\//,twoHundo=/^(20\d|1223)$/,readyState="readyState",contentType="Content-Type",requestedWith="X-Requested-With",uniqid=0,callbackPrefix="reqwest_"+ +new Date,lastValue,xmlHttpRequest="XMLHttpRequest",xDomainRequest="XDomainRequest",noop=function(){},isArray="function"==typeof Array.isArray?Array.isArray:function(e){return e instanceof Array},defaultHeaders={contentType:"application/x-www-form-urlencoded",requestedWith:xmlHttpRequest,accept:{"*":"text/javascript, text/html, application/xml, text/xml, */*",xml:"application/xml, text/xml",html:"text/html",text:"text/plain",json:"application/json, text/javascript",js:"application/javascript, text/javascript"}},xhr=function(e){if(e.crossOrigin===!0){var t=context[xmlHttpRequest]?new XMLHttpRequest:null;if(t&&"withCredentials"in t)return t;if(context[xDomainRequest])return new XDomainRequest;throw new Error("Browser does not support cross-origin requests")}return context[xmlHttpRequest]?new XMLHttpRequest:XHR2?new XHR2:new ActiveXObject("Microsoft.XMLHTTP")},globalSetupOptions={dataFilter:function(e){return e}};return Reqwest.prototype={abort:function(){this._aborted=!0,this.request.abort()},retry:function(){init.call(this,this.o,this.fn)},then:function(e,t){return e=e||function(){},t=t||function(){},this._fulfilled?this._responseArgs.resp=e(this._responseArgs.resp):this._erred?t(this._responseArgs.resp,this._responseArgs.msg,this._responseArgs.t):(this._fulfillmentHandlers.push(e),this._errorHandlers.push(t)),this},always:function(e){return this._fulfilled||this._erred?e(this._responseArgs.resp):this._completeHandlers.push(e),this},fail:function(e){return this._erred?e(this._responseArgs.resp,this._responseArgs.msg,this._responseArgs.t):this._errorHandlers.push(e),this},"catch":function(e){return this.fail(e)}},reqwest.serializeArray=function(){var e=[];return eachFormElement.apply(function(t,s){e.push({name:t,value:s})},arguments),e},reqwest.serialize=function(){if(0===arguments.length)return"";var e,t,s=Array.prototype.slice.call(arguments,0);return e=s.pop(),e&&e.nodeType&&s.push(e)&&(e=null),e&&(e=e.type),t="map"==e?serializeHash:"array"==e?reqwest.serializeArray:serializeQueryString,t.apply(null,s)},reqwest.toQueryString=function(e,t){var s,o,n=t||!1,r=[],i=encodeURIComponent,a=function(e,t){t="function"==typeof t?t():null==t?"":t,r[r.length]=i(e)+"="+i(t)};if(isArray(e))for(o=0;e&&o<e.length;o++)a(e[o].name,e[o].value);else for(s in e)e.hasOwnProperty(s)&&buildParams(s,e[s],n,a);return r.join("&").replace(/%20/g,"+")},reqwest.getcallbackPrefix=function(){return callbackPrefix},reqwest.compat=function(e,t){return e&&(e.type&&(e.method=e.type)&&delete e.type,e.dataType&&(e.type=e.dataType),e.jsonpCallback&&(e.jsonpCallbackName=e.jsonpCallback)&&delete e.jsonpCallback,e.jsonp&&(e.jsonpCallback=e.jsonp)),new Reqwest(e,t)},reqwest.ajaxSetup=function(e){e=e||{};for(var t in e)globalSetupOptions[t]=e[t]},reqwest}(),Locksmith=window.Locksmith={},jsonScript=document.querySelector('script[type="application/vnd.locksmith+json"]'),json=jsonScript&&jsonScript.innerHTML;if(Locksmith.state={},Locksmith.util={},Locksmith.loading=!1,json)try{Locksmith.state=JSON.parse(json)}catch(error){}if(document.addEventListener&&document.querySelector){var box,keysLeft,timeout,keysTarget=[76,79,67,75,83,77,73,84,72,49,49],reset=function(){keysLeft=keysTarget.slice(0)},style="style",remover=function(e){e&&27!==e.keyCode&&"click"!==e.type||(document.removeEventListener("keydown",remover),document.removeEventListener("click",remover),box&&document.body.removeChild(box),box=null)};reset(),document.addEventListener("keyup",function(e){if(e.keyCode===keysLeft[0]){if(clearTimeout(timeout),keysLeft.shift(),keysLeft.length>0)return void(timeout=setTimeout(reset,1e3));reset(),remover(),box=document.createElement("div"),box[style].width="50%",box[style].maxWidth="500px",box[style].height="35%",box[style].border="1px rgba(0, 0, 0, 0.2) solid",box[style].background="rgba(255, 255, 255, 0.99)",box[style].borderRadius="2px",box[style].position="fixed",box[style].top="50%",box[style].left="50%",box[style].transform="translateY(-50%) translateX(-50%)",box[style].boxShadow="0 2px 5px rgba(0, 0, 0, 0.3), 0 0 100px 500px rgba(255, 255, 255, 0.87)",box[style].zIndex="2147483645";var t=document.createElement("textarea");t.value=json,t[style].border="none",t[style].display="block",t[style].boxSizing="border-box",t[style].width="100%",t[style].height="100%",t[style].background="transparent",t[style].padding="10px",t[style].fontFamily="monospace",t[style].fontSize="13px",t[style].color="#333",t[style].resize="none",t[style].outline="none",t.readOnly=!0,box.appendChild(t),t.addEventListener("click",function(e){e.stopImmediatePropagation(),t.select()}),document.body.appendChild(box),t.select(),document.addEventListener("keydown",remover),document.addEventListener("click",remover)}})}Locksmith.path=Locksmith.state.path||window.location.pathname,Locksmith.token=null,Locksmith.basePath="/apps/locksmith",Locksmith.util.withToken=function(e){Locksmith.token?e(Locksmith.token):reqwest({url:"https://uselocksmith.com/proxy/token?shop=goodwearusa.myshopify.com",type:"html",crossOrigin:!0,withCredentials:!0,success:function(t){Locksmith.token=t,e(t)}})},Locksmith.util.makeUrl=function(e,t,s){var o,n=Locksmith.basePath+e,r=[],i=Locksmith.cache();for(o in i)r.push(o+"="+encodeURIComponent(i[o]));for(o in t)r.push(o+"="+encodeURIComponent(t[o]));Locksmith.state.customer_id&&(r.push("customer_id="+encodeURIComponent(Locksmith.state.customer_id)),r.push("customer_id_signature="+encodeURIComponent(Locksmith.state.customer_id_signature))),Locksmith.util.withToken(function(e){r.push("token="+e),n=n+(-1===n.indexOf("?")?"?":"&")+r.join("&"),s(n)})},Locksmith.cache=function(e){var t={};try{var s=function(e){return(document.cookie.match("(^|; )"+e+"=([^;]*)")||0)[2]};t=JSON.parse(decodeURIComponent(s("locksmith-params")||"{}"))}catch(o){}if(e){for(var n in e)t[n]=e[n];document.cookie="locksmith-params=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/",document.cookie="locksmith-params="+encodeURIComponent(JSON.stringify(t))+"; path=/"}return t},Locksmith.params=Locksmith.cache(),Locksmith.util.spinnerHTML='<style>body{background:#FFF}@keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}#loading{display:flex;width:100%;height:50vh;color:#777;align-items:center;justify-content:center}#loading .spinner{display:block;animation:spin 600ms linear infinite;position:relative;width:50px;height:50px}#loading .spinner-ring{stroke:currentColor;stroke-dasharray:100%;stroke-width:2px;stroke-linecap:round;fill:none}</style><div id="loading"><div class="spinner"><svg width="100%" height="100%"><svg preserveAspectRatio="xMinYMin"><circle class="spinner-ring" cx="50%" cy="50%" r="45%"></circle></svg></svg></div></div>',Locksmith.util.clobberBody=function(e){document.body.innerHTML=e},Locksmith.util.clobberDocument=function(e){e.responseText&&(e=e.responseText),document.documentElement&&document.removeChild(document.documentElement);var t=document.open("text/html","replace");t.writeln(e),t.close(),setTimeout(function(){var e=t.querySelector("[autofocus]");e&&e.focus()},100)},Locksmith.util.serializeForm=function(e){if(e&&"FORM"===e.nodeName){var t,s,o={};for(t=e.elements.length-1;t>=0;t-=1)if(""!==e.elements[t].name)switch(e.elements[t].nodeName){case"INPUT":switch(e.elements[t].type){default:case"text":case"hidden":case"password":case"button":case"reset":case"submit":o[e.elements[t].name]=e.elements[t].value;break;case"checkbox":case"radio":e.elements[t].checked&&(o[e.elements[t].name]=e.elements[t].value);break;case"file":}break;case"TEXTAREA":o[e.elements[t].name]=e.elements[t].value;break;case"SELECT":switch(e.elements[t].type){case"select-one":o[e.elements[t].name]=e.elements[t].value;break;case"select-multiple":for(s=e.elements[t].options.length-1;s>=0;s-=1)e.elements[t].options[s].selected&&(o[e.elements[t].name]=e.elements[t].options[s].value)}break;case"BUTTON":switch(e.elements[t].type){case"reset":case"submit":case"button":o[e.elements[t].name]=e.elements[t].value}}return o}},Locksmith.util.on=function(e,t,s,o){o=o||document;var n="locksmith-"+e+t,r=function(e){-1===e.target.className.split(/\s+/).indexOf(t)&&-1===e.target.parentElement.className.split(/\s+/).indexOf(t)||e[n]||(e[n]=!0,s(e))};o.attachEvent?o.attachEvent(e,r):o.addEventListener(e,r,!1)},Locksmith.util.enableActions=function(e){Locksmith.util.on("click","locksmith-action",function(e){e.preventDefault();var t=e.target;(!t.dataset.confirmWith||confirm(t.dataset.confirmWith))&&(t.disabled=!0,t.innerText=t.dataset.disableWith,Locksmith.post("/action",t.dataset.locksmithParams,{spinner:!1,type:"text",success:function(e){e=JSON.parse(e.responseText),e.message&&alert(e.message),Locksmith.util.reload()}}))},e)},Locksmith.util.reload=function(){Locksmith.reloading=!0;try{window.location.href=window.location.href.replace(/#.*/,"")}catch(e){Locksmith.util.console.error("Preferred reload method failed",e),window.location.reload()}};var _getCache={};Locksmith.getState=function(e,t,s){var o=e+JSON.stringify(t);Locksmith.loading=!0,Locksmith.util.makeUrl(e,t,function(e){reqwest({url:e,method:"get",type:"html",complete:function(){Locksmith.loading=!1},error:function(e){throw console.error(e),alert("Something went wrong! Please refresh and try again."),e},success:function(e){_getCache[o]=e;var t=e.match(new RegExp('<script type="application/vnd[.]locksmith[+]json">s*([^]+?)s*<[/]script>'));s(t?JSON.parse(t[1]):{})}})})},Locksmith.get=function(e,t,s){s=s||{},s.spinner!==!1&&Locksmith.util.clobberBody(Locksmith.util.spinnerHTML);var o=e+JSON.stringify(t);return _getCache[o]?void Locksmith.util.clobberDocument(_getCache[o]):(Locksmith.loading=!0,void Locksmith.util.makeUrl(e,t,function(e){reqwest({url:e,method:"get",type:"html",complete:function(){Locksmith.loading=!1},error:function(e){throw console.error(e),alert("Something went wrong! Please refresh and try again."),e},success:function(e){_getCache[o]=e,Locksmith.util.clobberDocument(e)}})}))},Locksmith.post=function(e,t,s){s=s||{},s.spinner!==!1&&Locksmith.util.clobberBody(Locksmith.util.spinnerHTML);var o={};s.reload&&(o.reload=1),Locksmith.loading=!0,Locksmith.util.makeUrl(e,o,function(e){reqwest({url:e,method:"post",type:s.type||"html",data:t,complete:function(){Locksmith.loading=!1},error:function(e){if(s.silent!==!0)throw console.error(e),alert("Something went wrong! Please refresh and try again."),e},success:s.success||Locksmith.util.clobberDocument})})},Locksmith.getResourceState=function(e){Locksmith.getState("/resource",{path:Locksmith.path,search:window.location.search},e)},Locksmith.getResource=function(e){Locksmith.get("/resource",{path:Locksmith.path,search:window.location.search,state:Locksmith.state},e)};var useLocalStorage=!0;try{localStorage.setItem("_localStorage_test",0)}catch(error){useLocalStorage=!1}Locksmith.postResource=function(e,t){e.locksmith_source?useLocalStorage?(localStorage.setItem("_locksmith_source",e.locksmith_source),localStorage.setItem("_locksmith_signature",e.locksmith_signature)):(window._locksmith_source=e.locksmith_source,window._locksmith_signature=e.locksmith_signature):useLocalStorage?(e.locksmith_source=localStorage.getItem("_locksmith_source"),e.locksmith_signature=localStorage.getItem("_locksmith_signature")):(e.locksmith_source=window._locksmith_source,e.locksmith_signature=window._locksmith_signature),e.path=Locksmith.path,e.search=window.location.search,e.locksmith_json||(e.locksmith_json=Locksmith.jsonTag,e.locksmith_json_signature=Locksmith.jsonTagSignature),Locksmith.post("/resource",e,t)},Locksmith.ping=function(e){(e||Locksmith.state.keys.length>0||0!==Object.keys(Locksmith.cache()).length)&&Locksmith.post("/ping",{path:Locksmith.path,state:Locksmith.state},{spinner:!1,silent:!0,type:"text",success:function(e){e=JSON.parse(e.responseText),e.messages&&e.messages.length>0&&Locksmith.showMessages(e.messages)}})},Locksmith.showMessages=function(e){var t=document.createElement("div");t.style.position="fixed",t.style.left=0,t.style.right=0,t.style.bottom="-50px",t.style.opacity=0,t.style.background="#191919",t.style.color="#ddd",t.style.transition="bottom 0.2s, opacity 0.2s",t.style.zIndex=999999,t.innerHTML="      <style>        .locksmith-ab .locksmith-b { display: none; }        .locksmith-ab.toggled .locksmith-b { display: flex; }        .locksmith-ab.toggled .locksmith-a { display: none; }        .locksmith-flex { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; padding: 10px 20px; }        .locksmith-message + .locksmith-message { border-top: 1px #555 solid; }        .locksmith-message a { color: inherit; font-weight: bold; }        .locksmith-message a:hover { color: inherit; opacity: 0.8; }        a.locksmith-ab-toggle { font-weight: inherit; text-decoration: underline; }        .locksmith-text { flex-grow: 1; }        .locksmith-cta { flex-grow: 0; text-align: right; }        .locksmith-cta button { transform: scale(0.8); transform-origin: left; }        .locksmith-cta > * { display: block; }        .locksmith-cta > * + * { margin-top: 10px; }        .locksmith-message a.locksmith-close { flex-grow: 0; text-decoration: none; margin-left: 15px; font-size: 30px; font-family: monospace; display: block; padding: 2px 10px; }                @media screen and (max-width: 600px) {          .locksmith-wide-only { display: none !important; }          .locksmith-flex { padding: 0 15px; }          .locksmith-flex > * { margin-top: 5px; margin-bottom: 5px; }          .locksmith-cta { text-align: left; }        }                @media screen and (min-width: 601px) {          .locksmith-narrow-only { display: none !important; }        }      </style>    "+e.map(function(e){return'<div class="locksmith-message">'+e+"</div>"}).join(""),document.body.appendChild(t),document.body.style.position="relative",document.body.parentElement.style.paddingBottom=""+t.offsetHeight+"px",setTimeout(function(){t.style.bottom=0,t.style.opacity=1},50),Locksmith.util.on("click","locksmith-ab-toggle",function(e){e.preventDefault();for(var t=e.target.parentElement;-1===t.className.split(" ").indexOf("locksmith-ab");)t=t.parentElement;-1!==t.className.split(" ").indexOf("toggled")?t.className=t.className.replace("toggled",""):t.className=t.className+" toggled"}),Locksmith.util.enableActions(t)}}();</script>
+    <script data-locksmith>Locksmith.jsonTag="\u003cscript type=\"application\/vnd.locksmith+json\" data-locksmith\u003e{\"version\":\"v5.38\",\"locked\":false,\"scope\":\"article\",\"access_granted\":true,\"access_denied\":false,\"manual_lock\":false,\"server_lock\":false,\"server_rendered\":false,\"hide_resource\":false,\"hide_links_to_resource\":false,\"transparent\":true,\"locks\":{\"all\":[],\"opened\":[]},\"keys\":[],\"keys_signature\":\"2f295a3eafdec793389b5920697a325c55287837b50aae37946c071578c1293e\",\"state\":{\"template\":\"article\",\"theme\":81865015409,\"product\":null,\"collection\":null,\"page\":null,\"blog\":\"news\",\"article\":\"222266893\",\"app\":null},\"shop\":{\"customer_accounts_enabled\":true},\"now\":1612637532,\"path\":\"\/blogs\/news\/how-to-choose-the-perfect-t-shirt-size\",\"canonical_url\":\"https:\\\/\\\/www.goodwear.com\\\/blogs\\\/news\\\/how-to-choose-the-perfect-t-shirt-size\",\"customer_id\":null,\"customer_id_signature\":\"2f295a3eafdec793389b5920697a325c55287837b50aae37946c071578c1293e\",\"cart\":null}\u003c\/script\u003e";Locksmith.jsonTagSignature="fe1b24c4294034c2e53edfaead7c2ac89f34cf7e7fdbe1e8d7982dcf61bae705"</script>
+    <script data-locksmith>!function(){Locksmith.state.server_lock&&!Locksmith.state.server_rendered&&(Locksmith.state.manual_lock&&Locksmith.state.access_denied||Locksmith.getResource()),Locksmith.util.on("submit","locksmith-resource-form",function(e){e.preventDefault();var t=Locksmith.util.serializeForm(e.target);Locksmith.postResource(t,{spinner:!1,reload:!0})})}();</script>
+  <!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if (lte IE 9) ]><script src="//cdn.shopify.com/s/files/1/1375/0525/t/51/assets/match-media.min.js?v=15963527692458216148" type="text/javascript"></script><![endif]-->
+
+
+  
+  <script src="//cdn.shopify.com/s/files/1/1375/0525/t/51/assets/vendor.js" defer="defer"></script>
+
+
+
+  
+
+  
+  <script src="//cdn.shopify.com/s/files/1/1375/0525/t/51/assets/theme.js?v=5783560786051110446" defer="defer"></script>
+
+
+<link href="//cdn.shopify.com/s/files/1/1375/0525/t/51/assets/ba-po-common.scss?v=4918701016027710682" rel="stylesheet" type="text/css" media="all" /></head>
+
+<body class="template-article" data-transitions="false">
+
+  
+  
+  
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
+
+  <div id="PageContainer" class="page-container">
+    <div class="transition-body">
+
+    <div id="shopify-section-header" class="shopify-section">
+    <!-- Not blank:  2020-mobile-menu-dr -->
+
+
+
+
+<!-- LinkListDrop
+     Mobile menu list: 2020-mobile-menu-dr
+-->
+
+<div id="NavDrawer" class="drawer drawer--right">
+  <div class="drawer__fixed-header drawer__fixed-header--full">
+    <div class="drawer__header drawer__header--full appear-animation appear-delay-1">
+      <div class="h2 drawer__title">
+        
+
+      </div>
+      <div class="drawer__close">
+        <button type="button" class="drawer__close-button js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+          <span class="icon__fallback-text">Close menu</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="drawer__inner">
+
+    <ul class="mobile-nav" role="navigation" aria-label="Primary">
+      
+
+
+        <li class="mobile-nav__item appear-animation appear-delay-2">
+          
+            <div class="mobile-nav__has-sublist">
+              
+                <a href="/"
+                  class="mobile-nav__link mobile-nav__link--top-level"
+                  id="Label-1"
+                  >
+                  Men's
+                </a>
+                <div class="mobile-nav__toggle">
+                  <button type="button"
+                    aria-controls="Linklist-1"
+                    
+                    class="collapsible-trigger collapsible--auto-height ">
+                    <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
+  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="M1.57 1.59l12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"/></svg>
+</span>
+
+                  </button>
+                </div>
+              
+            </div>
+          
+
+          
+            <div id="Linklist-1"
+              class="mobile-nav__sublist collapsible-content collapsible-content--all "
+              aria-labelledby="Label-1"
+              >
+              <div class="collapsible-content__inner">
+                <ul class="mobile-nav__sublist">
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/collections/short-sleeve"
+                            class="mobile-nav__link"
+                            id="Sublabel-collections-short-sleeve1"
+                            >
+                            Short Sleeve Shirts
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/collections/long-sleeve"
+                            class="mobile-nav__link"
+                            id="Sublabel-collections-long-sleeve2"
+                            >
+                            Long Sleeve Shirts
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/collections/sweatshirts-and-outerwear"
+                            class="mobile-nav__link"
+                            id="Sublabel-collections-sweatshirts-and-outerwear3"
+                            >
+                            Sweatshirts &amp; Jackets
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/collections/bottoms"
+                            class="mobile-nav__link"
+                            id="Sublabel-collections-bottoms4"
+                            >
+                            Bottoms
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/collections/accessories"
+                            class="mobile-nav__link"
+                            id="Sublabel-collections-accessories5"
+                            >
+                            Hats
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+                </ul>
+              </div>
+            </div>
+          
+        </li>
+      
+
+
+        <li class="mobile-nav__item appear-animation appear-delay-3">
+          
+            <div class="mobile-nav__has-sublist">
+              
+                <a href="/"
+                  class="mobile-nav__link mobile-nav__link--top-level"
+                  id="Label-2"
+                  >
+                  Women's
+                </a>
+                <div class="mobile-nav__toggle">
+                  <button type="button"
+                    aria-controls="Linklist-2"
+                    
+                    class="collapsible-trigger collapsible--auto-height ">
+                    <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
+  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="M1.57 1.59l12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"/></svg>
+</span>
+
+                  </button>
+                </div>
+              
+            </div>
+          
+
+          
+            <div id="Linklist-2"
+              class="mobile-nav__sublist collapsible-content collapsible-content--all "
+              aria-labelledby="Label-2"
+              >
+              <div class="collapsible-content__inner">
+                <ul class="mobile-nav__sublist">
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/collections/womens-sleepwear"
+                            class="mobile-nav__link"
+                            id="Sublabel-collections-womens-sleepwear1"
+                            >
+                            Sleepwear
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/collections/buy-one-get-one-50-off-mix-and-match-sleepwear-sets"
+                            class="mobile-nav__link"
+                            id="Sublabel-collections-buy-one-get-one-50-off-mix-and-match-sleepwear-sets2"
+                            >
+                            Sleepwear Sets
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+                </ul>
+              </div>
+            </div>
+          
+        </li>
+      
+
+
+        <li class="mobile-nav__item appear-animation appear-delay-4">
+          
+            <a href="/collections/best-sellers" class="mobile-nav__link mobile-nav__link--top-level" >Best Sellers</a>
+          
+
+          
+        </li>
+      
+
+
+        <li class="mobile-nav__item appear-animation appear-delay-5">
+          
+            <a href="/collections/new-arrivals" class="mobile-nav__link mobile-nav__link--top-level" >New Arrivals</a>
+          
+
+          
+        </li>
+      
+
+
+        <li class="mobile-nav__item appear-animation appear-delay-6">
+          
+            <div class="mobile-nav__has-sublist">
+              
+                <a href="/"
+                  class="mobile-nav__link mobile-nav__link--top-level"
+                  id="Label-5"
+                  >
+                  About Us
+                </a>
+                <div class="mobile-nav__toggle">
+                  <button type="button"
+                    aria-controls="Linklist-5"
+                    
+                    class="collapsible-trigger collapsible--auto-height ">
+                    <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
+  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="M1.57 1.59l12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"/></svg>
+</span>
+
+                  </button>
+                </div>
+              
+            </div>
+          
+
+          
+            <div id="Linklist-5"
+              class="mobile-nav__sublist collapsible-content collapsible-content--all "
+              aria-labelledby="Label-5"
+              >
+              <div class="collapsible-content__inner">
+                <ul class="mobile-nav__sublist">
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/pages/about-us"
+                            class="mobile-nav__link"
+                            id="Sublabel-pages-about-us1"
+                            >
+                            Our Story
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+
+
+                    <li class="mobile-nav__item">
+                      <div class="mobile-nav__child-item">
+                        
+                          <a href="/pages/our-made-in-usa-quality"
+                            class="mobile-nav__link"
+                            id="Sublabel-pages-our-made-in-usa-quality2"
+                            >
+                            Our Quality 
+                          </a>
+                        
+                        
+                      </div>
+
+                      
+                    </li>
+                  
+                </ul>
+              </div>
+            </div>
+          
+        </li>
+      
+
+
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary">
+          <div class="grid">
+            
+
+            
+<div class="grid__item one-half appear-animation appear-delay-7">
+                <a href="/account" class="mobile-nav__link">
+                  
+                    Log in
+                  
+                </a>
+              </div>
+            
+          </div>
+        </li>
+      
+    </ul><ul class="mobile-nav__social appear-animation appear-delay-8">
+      
+        <li class="mobile-nav__social-item">
+          <a target="_blank" href="https://www.facebook.com/GoodwearUSA/" title="Goodwear USA on Facebook">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 32 32"><path fill="#444" d="M18.56 31.36V17.28h4.48l.64-5.12h-5.12v-3.2c0-1.28.64-2.56 2.56-2.56h2.56V1.28H19.2c-3.84 0-7.04 2.56-7.04 7.04v3.84H7.68v5.12h4.48v14.08h6.4z"/></svg>
+            <span class="icon__fallback-text">Facebook</span>
+          </a>
+        </li>
+      
+      
+        <li class="mobile-nav__social-item">
+          <a target="_blank" href="https://twitter.com/GoodwearUSA" title="Goodwear USA on Twitter">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter" viewBox="0 0 32 32"><path fill="#444" d="M31.281 6.733q-1.304 1.924-3.13 3.26 0 .13.033.408t.033.408q0 2.543-.75 5.086t-2.282 4.858-3.635 4.108-5.053 2.869-6.341 1.076q-5.282 0-9.65-2.836.913.065 1.5.065 4.401 0 7.857-2.673-2.054-.033-3.668-1.255t-2.266-3.146q.554.13 1.206.13.88 0 1.663-.261-2.184-.456-3.619-2.184t-1.435-3.977v-.065q1.239.652 2.836.717-1.271-.848-2.021-2.233t-.75-2.983q0-1.63.815-3.195 2.38 2.967 5.754 4.678t7.319 1.907q-.228-.815-.228-1.434 0-2.608 1.858-4.45t4.532-1.842q1.304 0 2.51.522t2.054 1.467q2.152-.424 4.01-1.532-.685 2.217-2.771 3.488 1.989-.261 3.619-.978z"/></svg>
+            <span class="icon__fallback-text">Twitter</span>
+          </a>
+        </li>
+      
+      
+        <li class="mobile-nav__social-item">
+          <a target="_blank" href="https://www.pinterest.com/goodwearusa/" title="Goodwear USA on Pinterest">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pinterest" viewBox="0 0 32 32"><path fill="#444" d="M27.52 9.6c-.64-5.76-6.4-8.32-12.8-7.68-4.48.64-9.6 4.48-9.6 10.24 0 3.2.64 5.76 3.84 6.4 1.28-2.56-.64-3.2-.64-4.48-1.28-7.04 8.32-12.16 13.44-7.04 3.2 3.84 1.28 14.08-4.48 13.44-5.12-1.28 2.56-9.6-1.92-11.52-3.2-1.28-5.12 4.48-3.84 7.04-1.28 4.48-3.2 8.96-1.92 15.36 2.56-1.92 3.84-5.76 4.48-9.6 1.28.64 1.92 1.92 3.84 1.92 6.4-.64 10.24-7.68 9.6-14.08z"/></svg>
+            <span class="icon__fallback-text">Pinterest</span>
+          </a>
+        </li>
+      
+      
+        <li class="mobile-nav__social-item">
+          <a target="_blank" href="https://www.instagram.com/goodwearusa/" title="Goodwear USA on Instagram">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 32 32"><path fill="#444" d="M16 3.094c4.206 0 4.7.019 6.363.094 1.538.069 2.369.325 2.925.544.738.287 1.262.625 1.813 1.175s.894 1.075 1.175 1.813c.212.556.475 1.387.544 2.925.075 1.662.094 2.156.094 6.363s-.019 4.7-.094 6.363c-.069 1.538-.325 2.369-.544 2.925-.288.738-.625 1.262-1.175 1.813s-1.075.894-1.813 1.175c-.556.212-1.387.475-2.925.544-1.663.075-2.156.094-6.363.094s-4.7-.019-6.363-.094c-1.537-.069-2.369-.325-2.925-.544-.737-.288-1.263-.625-1.813-1.175s-.894-1.075-1.175-1.813c-.212-.556-.475-1.387-.544-2.925-.075-1.663-.094-2.156-.094-6.363s.019-4.7.094-6.363c.069-1.537.325-2.369.544-2.925.287-.737.625-1.263 1.175-1.813s1.075-.894 1.813-1.175c.556-.212 1.388-.475 2.925-.544 1.662-.081 2.156-.094 6.363-.094zm0-2.838c-4.275 0-4.813.019-6.494.094-1.675.075-2.819.344-3.819.731-1.037.4-1.913.944-2.788 1.819S1.486 4.656 1.08 5.688c-.387 1-.656 2.144-.731 3.825-.075 1.675-.094 2.213-.094 6.488s.019 4.813.094 6.494c.075 1.675.344 2.819.731 3.825.4 1.038.944 1.913 1.819 2.788s1.756 1.413 2.788 1.819c1 .387 2.144.656 3.825.731s2.213.094 6.494.094 4.813-.019 6.494-.094c1.675-.075 2.819-.344 3.825-.731 1.038-.4 1.913-.944 2.788-1.819s1.413-1.756 1.819-2.788c.387-1 .656-2.144.731-3.825s.094-2.212.094-6.494-.019-4.813-.094-6.494c-.075-1.675-.344-2.819-.731-3.825-.4-1.038-.944-1.913-1.819-2.788s-1.756-1.413-2.788-1.819c-1-.387-2.144-.656-3.825-.731C20.812.275 20.275.256 16 .256z"/><path fill="#444" d="M16 7.912a8.088 8.088 0 0 0 0 16.175c4.463 0 8.087-3.625 8.087-8.088s-3.625-8.088-8.088-8.088zm0 13.338a5.25 5.25 0 1 1 0-10.5 5.25 5.25 0 1 1 0 10.5zM26.294 7.594a1.887 1.887 0 1 1-3.774.002 1.887 1.887 0 0 1 3.774-.003z"/></svg>
+            <span class="icon__fallback-text">Instagram</span>
+          </a>
+        </li>
+      
+      
+      
+      
+      
+      
+    </ul>
+
+  </div>
+</div>
+
+
+<div id="CartDrawer" class="drawer drawer--right drawer--has-fixed-footer">
+  <div class="drawer__fixed-header">
+    <div class="drawer__header appear-animation appear-delay-1">
+      <div class="h2 drawer__title">Cart</div>
+      <div class="drawer__close">
+        <button type="button" class="drawer__close-button js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+          <span class="icon__fallback-text">Close cart</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="drawer__inner">
+    <div id="CartContainer" class="drawer__cart"></div>
+  </div>
+</div>     
+
+
+
+
+
+
+<style data-shopify>
+  .site-nav__link,
+  .site-nav__dropdown-link:not(.site-nav__dropdown-link--top-level) {
+    font-size: 19px;
+  }
+
+  
+</style>
+
+<div data-section-id="header" data-section-type="header-section">
+  
+
+  
+    
+      <div class="toolbar small--hide">
+  <div class="page-width">
+    <div class="toolbar__content">
+      
+
+      
+        <div class="toolbar__item">
+          <ul class="inline-list toolbar__social">
+            
+              <li>
+                <a target="_blank" href="https://www.facebook.com/GoodwearUSA/" title="Goodwear USA on Facebook">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 32 32"><path fill="#444" d="M18.56 31.36V17.28h4.48l.64-5.12h-5.12v-3.2c0-1.28.64-2.56 2.56-2.56h2.56V1.28H19.2c-3.84 0-7.04 2.56-7.04 7.04v3.84H7.68v5.12h4.48v14.08h6.4z"/></svg>
+                  <span class="icon__fallback-text">Facebook</span>
+                </a>
+              </li>
+            
+            
+              <li>
+                <a target="_blank" href="https://twitter.com/GoodwearUSA" title="Goodwear USA on Twitter">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter" viewBox="0 0 32 32"><path fill="#444" d="M31.281 6.733q-1.304 1.924-3.13 3.26 0 .13.033.408t.033.408q0 2.543-.75 5.086t-2.282 4.858-3.635 4.108-5.053 2.869-6.341 1.076q-5.282 0-9.65-2.836.913.065 1.5.065 4.401 0 7.857-2.673-2.054-.033-3.668-1.255t-2.266-3.146q.554.13 1.206.13.88 0 1.663-.261-2.184-.456-3.619-2.184t-1.435-3.977v-.065q1.239.652 2.836.717-1.271-.848-2.021-2.233t-.75-2.983q0-1.63.815-3.195 2.38 2.967 5.754 4.678t7.319 1.907q-.228-.815-.228-1.434 0-2.608 1.858-4.45t4.532-1.842q1.304 0 2.51.522t2.054 1.467q2.152-.424 4.01-1.532-.685 2.217-2.771 3.488 1.989-.261 3.619-.978z"/></svg>
+                  <span class="icon__fallback-text">Twitter</span>
+                </a>
+              </li>
+            
+            
+              <li>
+                <a target="_blank" href="https://www.pinterest.com/goodwearusa/" title="Goodwear USA on Pinterest">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pinterest" viewBox="0 0 32 32"><path fill="#444" d="M27.52 9.6c-.64-5.76-6.4-8.32-12.8-7.68-4.48.64-9.6 4.48-9.6 10.24 0 3.2.64 5.76 3.84 6.4 1.28-2.56-.64-3.2-.64-4.48-1.28-7.04 8.32-12.16 13.44-7.04 3.2 3.84 1.28 14.08-4.48 13.44-5.12-1.28 2.56-9.6-1.92-11.52-3.2-1.28-5.12 4.48-3.84 7.04-1.28 4.48-3.2 8.96-1.92 15.36 2.56-1.92 3.84-5.76 4.48-9.6 1.28.64 1.92 1.92 3.84 1.92 6.4-.64 10.24-7.68 9.6-14.08z"/></svg>
+                  <span class="icon__fallback-text">Pinterest</span>
+                </a>
+              </li>
+            
+            
+              <li>
+                <a target="_blank" href="https://www.instagram.com/goodwearusa/" title="Goodwear USA on Instagram">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 32 32"><path fill="#444" d="M16 3.094c4.206 0 4.7.019 6.363.094 1.538.069 2.369.325 2.925.544.738.287 1.262.625 1.813 1.175s.894 1.075 1.175 1.813c.212.556.475 1.387.544 2.925.075 1.662.094 2.156.094 6.363s-.019 4.7-.094 6.363c-.069 1.538-.325 2.369-.544 2.925-.288.738-.625 1.262-1.175 1.813s-1.075.894-1.813 1.175c-.556.212-1.387.475-2.925.544-1.663.075-2.156.094-6.363.094s-4.7-.019-6.363-.094c-1.537-.069-2.369-.325-2.925-.544-.737-.288-1.263-.625-1.813-1.175s-.894-1.075-1.175-1.813c-.212-.556-.475-1.387-.544-2.925-.075-1.663-.094-2.156-.094-6.363s.019-4.7.094-6.363c.069-1.537.325-2.369.544-2.925.287-.737.625-1.263 1.175-1.813s1.075-.894 1.813-1.175c.556-.212 1.388-.475 2.925-.544 1.662-.081 2.156-.094 6.363-.094zm0-2.838c-4.275 0-4.813.019-6.494.094-1.675.075-2.819.344-3.819.731-1.037.4-1.913.944-2.788 1.819S1.486 4.656 1.08 5.688c-.387 1-.656 2.144-.731 3.825-.075 1.675-.094 2.213-.094 6.488s.019 4.813.094 6.494c.075 1.675.344 2.819.731 3.825.4 1.038.944 1.913 1.819 2.788s1.756 1.413 2.788 1.819c1 .387 2.144.656 3.825.731s2.213.094 6.494.094 4.813-.019 6.494-.094c1.675-.075 2.819-.344 3.825-.731 1.038-.4 1.913-.944 2.788-1.819s1.413-1.756 1.819-2.788c.387-1 .656-2.144.731-3.825s.094-2.212.094-6.494-.019-4.813-.094-6.494c-.075-1.675-.344-2.819-.731-3.825-.4-1.038-.944-1.913-1.819-2.788s-1.756-1.413-2.788-1.819c-1-.387-2.144-.656-3.825-.731C20.812.275 20.275.256 16 .256z"/><path fill="#444" d="M16 7.912a8.088 8.088 0 0 0 0 16.175c4.463 0 8.087-3.625 8.087-8.088s-3.625-8.088-8.088-8.088zm0 13.338a5.25 5.25 0 1 1 0-10.5 5.25 5.25 0 1 1 0 10.5zM26.294 7.594a1.887 1.887 0 1 1-3.774.002 1.887 1.887 0 0 1 3.774-.003z"/></svg>
+                  <span class="icon__fallback-text">Instagram</span>
+                </a>
+              </li>
+            
+            
+            
+            
+            
+            
+          </ul>
+        </div>
+      
+
+      
+    </div>
+
+  </div>
+</div>
+
+    
+  
+
+  <div class="header-sticky-wrapper">
+    <div class="header-wrapper">
+
+      
+      <header
+        class="site-header"
+        data-sticky="true">
+        <div class="page-width">
+          <div
+            class="header-layout header-layout--left"
+            data-logo-align="left">
+
+            
+              <div class="header-item header-item--logo">
+                
+  
+<style data-shopify>
+    .header-item--logo,
+    .header-layout--left-center .header-item--logo,
+    .header-layout--left-center .header-item--icons {
+      -webkit-box-flex: 0 1 80px;
+      -ms-flex: 0 1 80px;
+      flex: 0 1 80px;
+    }
+
+    @media only screen and (min-width: 769px) {
+      .header-item--logo,
+      .header-layout--left-center .header-item--logo,
+      .header-layout--left-center .header-item--icons {
+        -webkit-box-flex: 0 0 120px;
+        -ms-flex: 0 0 120px;
+        flex: 0 0 120px;
+      }
+    }
+
+    .site-header__logo a {
+      width: 80px;
+    }
+    .is-light .site-header__logo .logo--inverted {
+      width: 80px;
+    }
+    @media only screen and (min-width: 769px) {
+      .site-header__logo a {
+        width: 120px;
+      }
+
+      .is-light .site-header__logo .logo--inverted {
+        width: 120px;
+      }
+    }
+    </style>
+
+    
+      <div class="h1 site-header__logo" itemscope itemtype="http://schema.org/Organization">
+    
+    
+      
+      <a
+        href="/"
+        itemprop="url"
+        class="site-header__logo-link">
+        <img
+          class="small--hide"
+          src="//cdn.shopify.com/s/files/1/1375/0525/files/gw_3D_Circle_4C-_1_120x.png?v=1553282407"
+          srcset="//cdn.shopify.com/s/files/1/1375/0525/files/gw_3D_Circle_4C-_1_120x.png?v=1553282407 1x, //cdn.shopify.com/s/files/1/1375/0525/files/gw_3D_Circle_4C-_1_120x@2x.png?v=1553282407 2x"
+          alt="Goodwear USA"
+          itemprop="logo">
+        <img
+          class="medium-up--hide"
+          src="//cdn.shopify.com/s/files/1/1375/0525/files/gw_3D_Circle_4C-_1_80x.png?v=1553282407"
+          srcset="//cdn.shopify.com/s/files/1/1375/0525/files/gw_3D_Circle_4C-_1_80x.png?v=1553282407 1x, //cdn.shopify.com/s/files/1/1375/0525/files/gw_3D_Circle_4C-_1_80x@2x.png?v=1553282407 2x"
+          alt="Goodwear USA">
+      </a>
+      
+    
+    
+      </div>
+    
+
+  
+
+  
+
+
+
+
+              </div>
+            
+
+            
+              <div class="header-item header-item--navigation">
+                
+
+
+<ul
+  class="site-nav site-navigation small--hide"
+  
+    role="navigation" aria-label="Primary"
+  >
+  
+
+
+    <li
+      class="site-nav__item site-nav__expanded-item site-nav--has-dropdown site-nav--is-megamenu"
+      aria-haspopup="true">
+
+      <a href="/collections/mens" class="site-nav__link site-nav__link--underline site-nav__link--has-dropdown">
+        Men's
+      </a>
+      
+<div class="site-nav__dropdown megamenu text-left">
+          <div class="page-width">
+            <div class="grid">
+              <div class="grid__item medium-up--one-fifth appear-animation appear-delay-1">
+
+
+                  
+
+                  
+
+
+                  <div class="h5">
+                    <a href="/" class="site-nav__dropdown-link site-nav__dropdown-link--top-level">Ways To Shop</a>
+                  </div>
+
+                  
+
+                  
+                    <div>
+                      <a href="/collections/best-sellers" class="site-nav__dropdown-link">
+                        Best Sellers
+                      </a>
+                    </div>
+                  
+                    <div>
+                      <a href="/collections/new-arrivals" class="site-nav__dropdown-link">
+                        New Arrivals
+                      </a>
+                    </div>
+                  
+                    <div>
+                      <a href="/collections/work-from-home" class="site-nav__dropdown-link">
+                        Work From Home
+                      </a>
+                    </div>
+                  
+                
+
+
+                  
+
+                  
+                    </div><div class="grid__item medium-up--one-fifth appear-animation appear-delay-2">
+
+
+                  <div class="h5">
+                    <a href="/" class="site-nav__dropdown-link site-nav__dropdown-link--top-level">Collections</a>
+                  </div>
+
+                  
+
+                  
+                    <div>
+                      <a href="/collections/short-sleeve" class="site-nav__dropdown-link">
+                        Short Sleeve Shirts
+                      </a>
+                    </div>
+                  
+                    <div>
+                      <a href="/collections/long-sleeve" class="site-nav__dropdown-link">
+                        Long Sleeve Shirts
+                      </a>
+                    </div>
+                  
+                    <div>
+                      <a href="/collections/sweatshirts-and-outerwear" class="site-nav__dropdown-link">
+                        Sweatshirts & Jackets
+                      </a>
+                    </div>
+                  
+                    <div>
+                      <a href="/collections/bottoms" class="site-nav__dropdown-link">
+                        Bottoms
+                      </a>
+                    </div>
+                  
+                    <div>
+                      <a href="/collections/accessories" class="site-nav__dropdown-link">
+                        Hats
+                      </a>
+                    </div>
+                  
+                
+
+
+                  
+
+                  
+                    </div><div class="grid__item medium-up--one-fifth appear-animation appear-delay-3">
+
+
+                      <a
+                        href="/collections/classic-fit"
+                        class="megamenu__colection-image"
+                        style="background-image: url(//cdn.shopify.com/s/files/1/1375/0525/collections/007_web_400x.jpg?v=1555453239)"></a>
+                    
+                  
+
+                  <div class="h5">
+                    <a href="/collections/classic-fit" class="site-nav__dropdown-link site-nav__dropdown-link--top-level">Loose, Comfortable</a>
+                  </div>
+
+                  
+
+                  
+                    <div>
+                      <a href="/collections/classic-fit" class="site-nav__dropdown-link">
+                        Classic Fit
+                      </a>
+                    </div>
+                  
+                
+
+
+                  
+
+                  
+                    </div><div class="grid__item medium-up--one-fifth appear-animation appear-delay-4">
+
+
+                      <a
+                        href="/collections/modern-fit"
+                        class="megamenu__colection-image"
+                        style="background-image: url(//cdn.shopify.com/s/files/1/1375/0525/collections/modern_fit_400x.png?v=1555453721)"></a>
+                    
+                  
+
+                  <div class="h5">
+                    <a href="/collections/modern-fit" class="site-nav__dropdown-link site-nav__dropdown-link--top-level">Structured, Stylish</a>
+                  </div>
+
+                  
+
+                  
+                    <div>
+                      <a href="/collections/modern-fit" class="site-nav__dropdown-link">
+                        Modern Fit
+                      </a>
+                    </div>
+                  
+                
+
+
+                  
+
+                  
+                    </div><div class="grid__item medium-up--one-fifth appear-animation appear-delay-5">
+
+
+                      <a
+                        href="/collections/slim-fit"
+                        class="megamenu__colection-image"
+                        style="background-image: url(//cdn.shopify.com/s/files/1/1375/0525/collections/fit_collectionbanner-08_400x.png?v=1555453631)"></a>
+                    
+                  
+
+                  <div class="h5">
+                    <a href="/collections/slim-fit" class="site-nav__dropdown-link site-nav__dropdown-link--top-level">Slim, Cut</a>
+                  </div>
+
+                  
+
+                  
+                    <div>
+                      <a href="/collections/slim-fit" class="site-nav__dropdown-link">
+                        Slim Fit
+                      </a>
+                    </div>
+                  
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      
+    </li>
+  
+
+
+    <li
+      class="site-nav__item site-nav__expanded-item site-nav--has-dropdown"
+      aria-haspopup="true">
+
+      <a href="/collections/womens-sleepwear" class="site-nav__link site-nav__link--underline site-nav__link--has-dropdown">
+        Women's
+      </a>
+      
+        <ul class="site-nav__dropdown text-left">
+          
+
+
+            <li class="">
+              <a href="/collections/womens-sleepwear" class="site-nav__dropdown-link site-nav__dropdown-link--second-level ">
+                Sleepwear
+                
+              </a>
+              
+            </li>
+          
+
+
+            <li class="">
+              <a href="/collections/buy-one-get-one-50-off-mix-and-match-sleepwear-sets" class="site-nav__dropdown-link site-nav__dropdown-link--second-level ">
+                Sleepwear Sets
+                
+              </a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+
+
+    <li
+      class="site-nav__item site-nav__expanded-item"
+      >
+
+      <a href="/collections/best-sellers" class="site-nav__link site-nav__link--underline">
+        Best Sellers
+      </a>
+      
+    </li>
+  
+
+
+    <li
+      class="site-nav__item site-nav__expanded-item"
+      >
+
+      <a href="/collections/new-arrivals" class="site-nav__link site-nav__link--underline">
+        New Arrivals
+      </a>
+      
+    </li>
+  
+
+
+    <li
+      class="site-nav__item site-nav__expanded-item site-nav--has-dropdown"
+      aria-haspopup="true">
+
+      <a href="/" class="site-nav__link site-nav__link--underline site-nav__link--has-dropdown">
+        About
+      </a>
+      
+        <ul class="site-nav__dropdown text-left">
+          
+
+
+            <li class="">
+              <a href="/pages/about-us" class="site-nav__dropdown-link site-nav__dropdown-link--second-level ">
+                Our Story
+                
+              </a>
+              
+            </li>
+          
+
+
+            <li class="">
+              <a href="/pages/our-made-in-usa-quality" class="site-nav__dropdown-link site-nav__dropdown-link--second-level ">
+                Our Quality 
+                
+              </a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+</ul>
+
+              </div>
+            
+
+            
+
+            <div class="header-item header-item--icons">
+              
+
+<div class="site-nav">
+  <div class="site-nav__icons">
+    
+      <a class="site-nav__link site-nav__link--icon small--hide" href="/account">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-user" viewBox="0 0 64 64"><path d="M35 39.84v-2.53c3.3-1.91 6-6.66 6-11.41 0-7.63 0-13.82-9-13.82s-9 6.19-9 13.82c0 4.75 2.7 9.51 6 11.41v2.53c-10.18.85-18 6-18 12.16h42c0-6.19-7.82-11.31-18-12.16z"/></svg>
+        <span class="icon__fallback-text">
+          
+            Log in
+          
+        </span>
+      </a>
+    
+
+    
+      <a href="/search" class="site-nav__link site-nav__link--icon js-search-header js-no-transition">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 64 64"><path d="M47.16 28.58A18.58 18.58 0 1 1 28.58 10a18.58 18.58 0 0 1 18.58 18.58zM54 54L41.94 42"/></svg>
+        <span class="icon__fallback-text">Search</span>
+      </a>
+    
+
+    
+      <button
+        type="button"
+        class="site-nav__link site-nav__link--icon js-drawer-open-nav medium-up--hide"
+        aria-controls="NavDrawer">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 64 64"><path d="M7 15h51M7 32h43M7 49h51"/></svg>
+        <span class="icon__fallback-text">Site navigation</span>
+      </button>
+    
+
+    <a href="/cart" class="site-nav__link site-nav__link--icon js-drawer-open-cart js-no-transition" aria-controls="CartDrawer">
+      <span class="cart-link">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-bag" viewBox="0 0 64 64"><g fill="none" stroke="#000" stroke-width="2"><path d="M25 26c0-15.79 3.57-20 8-20s8 4.21 8 20"/><path d="M14.74 18h36.51l3.59 36.73h-43.7z"/></g></svg>
+        <span class="icon__fallback-text">Cart</span>
+        <span class="cart-link__bubble"></span>
+      </span>
+    </a>
+  </div>
+</div>
+
+            </div>
+          </div>
+
+          
+        </div>
+        <div class="site-header__search-container">
+          <div class="site-header__search">
+            <div class="page-width">
+              <form action="/search" method="get" class="site-header__search-form" role="search">
+                
+                <button type="submit" class="text-link site-header__search-btn">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 64 64"><path d="M47.16 28.58A18.58 18.58 0 1 1 28.58 10a18.58 18.58 0 0 1 18.58 18.58zM54 54L41.94 42"/></svg>
+                  <span class="icon__fallback-text">Search</span>
+                </button>
+                <input type="search" name="q" value="" placeholder="Search our store" class="site-header__search-input" aria-label="Search our store">
+              </form>
+              <button type="button" class="js-search-header-close text-link site-header__search-btn">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+                  <span class="icon__fallback-text">"Close (esc)"</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </header>
+    </div>
+  </div>
+
+  
+      
+
+
+  <div class="announcement-bar">
+    <div class="page-width">
+      <div
+        id="AnnouncementSlider"
+        class="announcement-slider announcement-slider--compact"
+        data-compact-style="true"
+        data-block-count="1">
+          
+        
+          
+            <div
+              id="AnnouncementSlide-1524770296206"
+              class="announcement-slider__slide"
+              data-index="0"
+              >
+              
+                
+                  <span class="announcement-text">Free U.S Shipping On Orders Over $100</span>
+                
+                
+              
+            </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+  
+</div>
+
+
+</div>
+
+      <main class="main-content" id="MainContent">
+        <div id="shopify-section-article-template" class="shopify-section">
+
+<div class="page-width page-content">
+
+  <div class="grid">
+    <article class="grid__item widescreen--six-tenths widescreen--push-two-tenths medium-up--two-thirds medium-up--push-one-sixth article" itemscope itemtype="http://schema.org/Article">
+
+      
+
+  
+  <nav class="breadcrumb" role="navigation" aria-label="breadcrumbs">
+    <a href="/" title="Back to the frontpage">Home</a>
+
+    
+
+      <span class="divider" aria-hidden="true">/</span>
+      <a href="/blogs/news" title="">Tee-Time</a>
+      <span class="divider" aria-hidden="true">/</span>
+
+    
+  </nav>
+  
+
+
+
+
+      <header class="section-header">
+        
+          <div class="article__date">
+            
+              
+                
+
+                <a href="/blogs/news/tagged/made-in-usa">Made in USA</a> &middot;
+              
+            
+            
+              <a href="#comments">4 comments</a> &middot;
+            
+            
+              <time datetime="2017-09-18T16:47:00Z">Sep 18, 2017</time>
+            
+          </div>
+        
+        <h1 class="section-header__title">How to Choose the Perfect T-Shirt Size</h1>
+        
+      </header>
+
+      <div class="article__body rte" itemprop="articleBody">
+        <p><a href="https://www.goodwear.com/collections/short-sleeve/products/adult-short-sleeve-crew-neck-w-pocket-viscose-hemp" target="_blank" title="Sustainable Men's T-Shirts" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/1375/0525/files/t-shirt_size.jpg?v=1585240519" alt="How to find the perfect t-shirt size"></a></p>
+<p><strong>Everyone loves t-shirts.</strong> They’re one of the most universal clothing items around. It doesn’t matter whether you’re a man or a woman, young or old. They’re great for sleeping in or going to the gym. They’re perfect to wear when you need to do some yard work or gardening. They’re comfortable and low-maintenance for a low-key Sunday of hanging out around the house watching TV.</p>
+<h3>The Longevity Of The T-Shirt</h3>
+<p>Trends have come and gone over the years, but the t-shirt is one staple that has been here a long time and doesn’t look like it’s going anywhere anytime soon. One of the reasons for this universal appeal is how many situations it’s good for. Another reason is how absolutely comfortable it is.</p>
+<p>While many button-downs, polos, sweaters or dress shirts feel stiff, or cling too tightly, or have uncomfortable collars, the t-shirt is soft, flexible and wonderfully comfortable.</p>
+<p>Another reason for the t-shirt’s popularity is how versatile it is. It can be worn on its own, or it can be worn underneath an open button-up, or it can be hidden underneath a sweater or other shirt for an extra layer of warmth. They can be a solid color, they can be patterned, or they can come in wild designs and covered with fun graphic pictures or quotes. They can look very casual, or they can look a little bit dressier, particularly if you choose a solid color and wear it with a nice pair of blue jeans or khakis.</p>
+<p><a href="https://www.goodwear.com/collections/short-sleeve/products/gp-2800?variant=23178371457" target="_blank" title="Made in USA T-Shirts" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/1375/0525/files/t-shirt_size_2.jpg?v=1585240872" alt="Goodwear Men's Made in USA t-shirt"></a></p>
+<h3>Finding The Perfect T-Shirt Size</h3>
+<p>What is not so great about t-shirts is how difficult it can be to find one that fits properly. In some cases, choosing the right t-Shirt can be annoyingly complicated. It’s something that seems like it should be easy, but in reality, is very complicated. Many t-shirts seem to cling in the wrong places, or hang awkwardly like a box or look awkward and ill-fitting in some other way.</p>
+<p>At Goodwear, we believe that finding a t-shirt that fits you properly shouldn’t be so complicated. To help you learn how to find the perfect t-shirt fit for you and your body, we’ve put together some tips and tricks.</p>
+<p><a href="https://www.goodwear.com/collections/short-sleeve/products/gw-cr-100?variant=39613060365" target="_blank" title="Men's Made in USA T-Shirts" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/1375/0525/files/t-shirt_size_3.jpg?v=1585241702" alt="Goodwear Made in USA T-shirts"></a></p>
+<h3>5 Tips &amp; Tricks For Finding The Perfect T-Shirt</h3>
+<p>It would be nice if t-shirt sizes were standard, and that if every time you picked up a size medium in any store, it was exactly the same size. Unfortunately, a medium in some stores is the size of an extra large in other stores.</p>
+<p>Because of the raging disparity in what the size label actually means, it’s difficult to determine what size t-shirt you should be wearing.</p>
+<p>The solution? Stop worrying so much about what size you are. Most likely, you’ll be a different size at every store you visit. Instead, try on a variety of sizes every place you go, and use your best judgment as you evaluate how the shirt looks on you to determine what size to buy.</p>
+<p>When determining how a t-shirt should fit, here are some things to look for:</p>
+<h3><strong>1. Size/Tightness</strong></h3>
+<p style="text-align: left;">A t-shirt that fits correctly should be neither too tight nor too loose. If it’s too loose, it’ll hang on you like a box and look completely unflattering. If it’s too tight, it’ll look like you’re squeezed into it and are about to burst the seams at any point — a look that will almost certainly come across as conceited and annoying.</p>
+<h3 style="text-align: left;"><strong>2. Shoulder Seams</strong></h3>
+<p>The shoulder seams are a good way to tell how well a shirt fits you. Ideally, these seams should reach to the end of your shoulder at the very top of your arm. If they extend down your upper arm, the shirt is too big. If they don’t reach the end of your shoulder, the shirt is too small.</p>
+<h3><strong>3. Sleeves</strong></h3>
+<p>The sleeves should extend about halfway down your upper arm. If you’re exceptionally tall, you might be safe wearing sleeves that are slightly longer, as these will look more proportional.</p>
+<h3><strong>4. Length</strong></h3>
+<p>The bottom hem of your t-shirt shouldn’t hit any higher than your hips, or it’s too small. It should cover your waistband and extend a few inches past that. If it’s shorter than that, it’ll look like a crop top when you raise your arms. If it’s longer than that, it’ll look like a dress. When trying on a t-shirt, make sure you raise your arms to see how far it rides up.</p>
+<h3><strong>5. Shape</strong></h3>
+<p>Many cheap t-shirts have no shape to them at all. They hang like boxes when you put them on and are extremely unattractive. Search instead for a t-shirt that follows the lines of your body a little more. Avoid any that are cut in the shapes of large squares.</p>
+<h3>How to Measure Yourself for a T-Shirt</h3>
+<p>When it comes to choosing a size for a t-shirt, the sizes can be all over the map. This often makes them less than helpful. In some cases, however, the store or brand may provide a sizing chart.</p>
+<p>A <a href="https://www.goodwear.com/pages/fit-guide" target="_blank" title="T-Shirt Sizing Chart" rel="noopener noreferrer">t-shirt sizing chart like ours</a> can be helpful because it breaks down a list of measurements and tells you what size those measurements will add up to. This makes it easy to glance at the chart for your size chest, for example, and see what size shirt someone with that measurement ought to wear.</p>
+<p>When it comes to measuring yourself for a t-shirt, here are the measurements you should take:</p>
+<h3><strong>1. Chest</strong></h3>
+<ol></ol>
+<p>To measure your chest, wrap the tape measure under your armpits and around the fullest part of your chest. It’s important to stand normally, without flexing or puffing out your chest. The tape measure should be snug, but it shouldn’t be so tight that it hampers your breathing.</p>
+<h3><strong>2. Length</strong></h3>
+<p>The bottom hem of your t-shirt should go a few inches below your waistband. To measure the length you need, stand straight and measure from the high point of your shoulder to below your waist.</p>
+<h3>How to Pick a T-Shirt for Your Body Type</h3>
+<p>Before you can pick the t-shirt that will look perfect on your body type, you have to know what your body type is. Let’s run through the most common body types briefly.</p>
+<ul>
+<li>
+<strong>Rectangle:</strong> This body type is fairly self-explanatory. This means your shoulders and your waist are roughly the same width, giving a rectangular shape. People with this body type tend to be tall and slightly built.</li>
+<li>
+<strong>Oval:</strong> The oval body type is very similar to the rectangle build, but it normally involves a larger frame and a softer middle.</li>
+<li>
+<strong>Trapezoid:</strong> With this body type, the shoulders are wider than the waist. This is the body type that many associate with a sports star or a traditional Hollywood heartthrob.</li>
+<li>
+<strong>Inverted Triangle: </strong>This body type is the trapezoid taken to the extreme. The shoulders are much wider than the waist, and the shoulder-to-waist ratio forms an upside down triangle.</li>
+<li>
+<strong>Non-Inverted Triangle: </strong>The exact opposite of the inverted triangle, this body type is distinguished by a waist that is wider than the shoulders.</li>
+</ul>
+<h3>The 3 Common T-Shirt Fits</h3>
+<p>The general rule of thumb when it comes to t-shirts is the same rule that governs most clothing. If you have muscle, don’t hide it. If you don’t have a lot of muscle, do your best to play up what you do have. And if you’re carrying extra weight, many styles will help you mask that.</p>
+<p>A quick breakdown of some of the most common styles of T-shirts includes:</p>
+<ul>
+<li>
+<strong><a href="https://www.goodwear.com/collections/slim-fit">Slim Fit</a>:</strong> This fit is meant to be tighter on your body. This is the perfect T-shirt if you are looking to show off your figure.</li>
+</ul>
+<ul>
+<li>
+<strong><a href="https://www.goodwear.com/collections/classic-fit">Classic Fit</a>: </strong>If you are looking for a looser and comfortable fit a classic fit T-shirt is the perfect choice!</li>
+</ul>
+<ul>
+<li>
+<strong><a href="https://www.goodwear.com/collections/modern-fit">Modern Fit</a>: </strong>Are you looking for a structured and stylish fit that does not hug your body? A modern fit t-shirt is the perfect solution for you.</li>
+</ul>
+<h3>Why It’s Important to Invest in High-Quality T-Shirts</h3>
+<p>Anyone can go to their local department or super store and pick up a TtShirt for a few dollars. Plenty of people do, and there’s certainly nothing wrong with that.</p>
+<p>However, there are several notable down sides to buying those kinds of t-shirts. The biggest difference is the lack of quality. These TtShirts are cheap, which means they’re affordable, but it also means they aren’t likely to last very long. You might have them for a season or a year, but they’ll soon rip, tear and lose their vibrant color.</p>
+<p>Many cheap t-Shirts are also made of cheap material that is uncomfortable and scratchy to the touch. They also tend to shrink in the wash, meaning that you only get a few good wears out of it before it’s too small for you.</p>
+<p>It’s worth it to spend a little more and buy a high quality t-shirt. The cost will be more than offset by how long it will last you. One nice t-shirt can last you for years, whereas you might have to buy three or four cheaper t-shirts to make it through the same amount of time.</p>
+<p>A more expensive t-Shirt will also be more comfortable. The fabric will be softer and gentler on your skin. It’ll wash better, and won’t shrink or lose its shape.</p>
+<p>When you buy a more expensive t-shirt, you’re also more likely to find a size that fits you better and is more flattering to you. Many cheaply made t-shirts are cut in very standard, square box shapes that aren’t flattering on anyone. To find a shape and a design that really flatters your body, you’re going to have to spend a little extra money to get the quality that will come with a well-designed t-shirt.</p>
+<p><a href="https://www.goodwear.com/collections/short-sleeve/products/gp-281300?variant=23178387713" target="_blank" title="Men's American Made T-Shirts" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/1375/0525/files/t-shirt_size_4.jpg?v=1585241827" alt="Men's Made in USA t-shirts"></a></p>
+<h3>What Makes Our T-Shirts Different</h3>
+<p>At Goodwear, we believe that every t-shirt you buy should be the perfect t-shirt. We believe in selling you quality products that have been proudly manufactured right here in the USA. We prioritize quality over everything else and are wholly committed to producing top-quality clothing items that will last for years to come without getting holes, stretching out, shrinking or fading.</p>
+<p>We know that everyone is looking for their perfect t-shirt. Whether you’ve never been able to find the right one because you can’t find the right size, or because the ones you’ve bought in the past keep ripping or losing their shape, we understand that struggle.</p>
+<p>We’re confident that when you buy one of our carefully-crafted high-quality t-shirts, your t-shirt search will be over, and you’ll look no further for the perfect shirt. When you buy t-shirts from us, you’re investing in wardrobe staples that will last you for years to come.</p>
+<p>What makes our shirt so special is the care and effort that we devote to making them. They manufactured in the USA, meaning they aren’t being produced cheaply overseas. We’re committed to making high-quality products because we believe that you don’t deserve anything less.</p>
+<p><a href="https://www.goodwear.com/collections/short-sleeve/products/gw-cr-100?variant=39613060365" target="_blank" title="Men's American Made T-Shirts" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/1375/0525/files/t-shirt_size_6.jpg?v=1585241897" alt="American Made T-shirts"></a></p>
+<h3>Shop Goodwear T-Shirts Today</h3>
+<p>We hope you’re convinced of how worthwhile it is to invest in great wardrobe staples like t-shirts. And we hope you’ll consider shopping at Goodwear to fulfill those needs.</p>
+<p>For almost 35 years, Goodwear has been a proud manufacturer of American-made clothing items, and our work and our reputation has only grown stronger from there. When you shop with us, you can feel confident that you’re supporting an American company that’s committed to delivering quality goods every time.</p>
+<p><a href="https://www.goodwear.com/collections/short-sleeve" target="_blank" title="Made in USA t-shirts" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/1375/0525/files/CTA_fastfashion.png?v=1582929360" alt="Goodwear T-Shirts"></a></p>
+      </div>
+
+      
+        <div class="social-sharing"><a target="_blank" href="//www.facebook.com/sharer.php?u=https://www.goodwear.com/blogs/news/how-to-choose-the-perfect-t-shirt-size" class="social-sharing__link" title="Share on Facebook">
+      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 32 32"><path fill="#444" d="M18.56 31.36V17.28h4.48l.64-5.12h-5.12v-3.2c0-1.28.64-2.56 2.56-2.56h2.56V1.28H19.2c-3.84 0-7.04 2.56-7.04 7.04v3.84H7.68v5.12h4.48v14.08h6.4z"/></svg>
+      <span class="social-sharing__title" aria-hidden="true">Share</span>
+      <span class="visually-hidden">Share on Facebook</span>
+    </a><a target="_blank" href="//twitter.com/share?text=How%20to%20Choose%20the%20Perfect%20T-Shirt%20Size&amp;url=https://www.goodwear.com/blogs/news/how-to-choose-the-perfect-t-shirt-size" class="social-sharing__link" title="Tweet on Twitter">
+      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter" viewBox="0 0 32 32"><path fill="#444" d="M31.281 6.733q-1.304 1.924-3.13 3.26 0 .13.033.408t.033.408q0 2.543-.75 5.086t-2.282 4.858-3.635 4.108-5.053 2.869-6.341 1.076q-5.282 0-9.65-2.836.913.065 1.5.065 4.401 0 7.857-2.673-2.054-.033-3.668-1.255t-2.266-3.146q.554.13 1.206.13.88 0 1.663-.261-2.184-.456-3.619-2.184t-1.435-3.977v-.065q1.239.652 2.836.717-1.271-.848-2.021-2.233t-.75-2.983q0-1.63.815-3.195 2.38 2.967 5.754 4.678t7.319 1.907q-.228-.815-.228-1.434 0-2.608 1.858-4.45t4.532-1.842q1.304 0 2.51.522t2.054 1.467q2.152-.424 4.01-1.532-.685 2.217-2.771 3.488 1.989-.261 3.619-.978z"/></svg>
+      <span class="social-sharing__title" aria-hidden="true">Tweet</span>
+      <span class="visually-hidden">Tweet on Twitter</span>
+    </a><a target="_blank" href="//pinterest.com/pin/create/button/?url=https://www.goodwear.com/blogs/news/how-to-choose-the-perfect-t-shirt-size&amp;media=//cdn.shopify.com/s/files/1/1375/0525/articles/t-shirt_size_7_1024x1024.jpg?v=1585242235&amp;description=How%20to%20Choose%20the%20Perfect%20T-Shirt%20Size" class="social-sharing__link" title="Pin on Pinterest">
+      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pinterest" viewBox="0 0 32 32"><path fill="#444" d="M27.52 9.6c-.64-5.76-6.4-8.32-12.8-7.68-4.48.64-9.6 4.48-9.6 10.24 0 3.2.64 5.76 3.84 6.4 1.28-2.56-.64-3.2-.64-4.48-1.28-7.04 8.32-12.16 13.44-7.04 3.2 3.84 1.28 14.08-4.48 13.44-5.12-1.28 2.56-9.6-1.92-11.52-3.2-1.28-5.12 4.48-3.84 7.04-1.28 4.48-3.2 8.96-1.92 15.36 2.56-1.92 3.84-5.76 4.48-9.6 1.28.64 1.92 1.92 3.84 1.92 6.4-.64 10.24-7.68 9.6-14.08z"/></svg>
+      <span class="social-sharing__title" aria-hidden="true">Pin it</span>
+      <span class="visually-hidden">Pin on Pinterest</span>
+    </a></div>
+
+      
+
+      
+
+        
+          <hr class="hr--large">
+          <h3>4 comments</h3>
+          <hr class="hr--small hr--clear">
+        
+
+        
+          
+          <div id="comments">
+
+            
+
+            
+              <ul class="no-bullets">
+                
+                
+
+                
+                  <li id="82665209969" class="comment first">
+                    <div class="grid">
+  <div class="grid__item medium-up--one-quarter">
+    <span class="h5 comment-author">Rick Lewis </span>
+    <span class="comment-date">
+      <time datetime="2020-07-28T17:47:46Z">Jul 28, 2020</time>
+    </span>
+  </div>
+  <div class="grid__item medium-up--three-quarters">
+    <div class="rte">
+      <p>I am what I consider to be an average size guy weighing in at 195 lbs and 6’0" height.  From there,  not much else is average in my eyes bc although I am confident in my own skin and I know how to dress for any occasion but my secret body issue is having longer arms and legs.  <br>
+This has been a nightmare for me to find jeans,  tshirts,  etc. that are a true fit for me.  I never have much luck buying clothes online and was the reason I found your article about sizes and you don’t know how pumped I was just reading it !! For the first time ever I have finally found the best fitting guide to purchase the right size and best looking clothes.  <br>
+The article has become a real game changer for me and I plan to fwd it on to my buddies too.  Bottom line is I can’t tell you how much this information is the catalyst to revamp my man closet guys.  <br>
+Greatly appreciate your input and one more thing,  I never gave hardly any thoughts about what kind of tshirts to get,  I’d just be on autopilot heading right to Walmart and snatch up a couple of 2 packs.  As of now,  today,  I’ll never look at buying my shirts the same again.  Kudos for having your article posted for the guy worn out from the fitting room of yesteryear lol.</p>
+    </div>
+  </div>
+</div>
+
+                  </li>
+
+                  
+                    <li><hr class="hr--clear"></li>
+                  
+                
+                  <li id="21452324977" class="comment">
+                    <div class="grid">
+  <div class="grid__item medium-up--one-quarter">
+    <span class="h5 comment-author">Cricket Simmons</span>
+    <span class="comment-date">
+      <time datetime="2019-06-08T12:54:16Z">Jun 08, 2019</time>
+    </span>
+  </div>
+  <div class="grid__item medium-up--three-quarters">
+    <div class="rte">
+      So I have a very complicated body type to shop for(think of a Kaminoan from Star Wars)and want a shirt from a different site. Their sizing education abilities are absolute shite, so I began searching the interwebs for something that made an iota of sense. After an hour or so I stumbled upon your article here.
+I work in jewelry retail so I know good branding when I see it. This was hands down the most comprehensive and digestible fitting info I could find. I would be willing to wager a penny or 2 that if I were to continue to search, I would still come to that conclusion. That being said, the entirety of the article is beautiful! You lead in with relation and understanding, mull through the issues, and provide well learned and candid buffet of understand able information. And then you seamlessly slide  into a completely selfless yet honest softsell. Magnificently justifying the urgency to spend a bit more on a good TShirt with quality as opposed to buget big box brands. All without ever throwing yourself in the readers face.
+Next you modestly yet confidently brought in your brand, your history, and the brand statement without once every feeling pushy. Very impressed.
+I&#8217;m in no way in advertising, just a consumer passing through while on a journey to successfully dress myself. Im going to be honest. I&#8217;m going to leave and go back to the original site and buy the shirt, but only because it&#8217;s a limited time Texas Chainsaw Massacre shirt I&#8217;m pretty sure isn&#8217;t in your inventory. But I&#8217;m so very pleased with what I&#8217;ve found here tonight I will be right back to peruse your wares. You made my evening giving me faith that there are companies left that still appreciate the customer enough to educate and then advertise. If Lamborghini were to show me an article like this, I&#8217;d by one solely to pull my boat.
+    </div>
+  </div>
+</div>
+
+                  </li>
+
+                  
+                    <li><hr class="hr--clear"></li>
+                  
+                
+                  <li id="21270888561" class="comment">
+                    <div class="grid">
+  <div class="grid__item medium-up--one-quarter">
+    <span class="h5 comment-author">Vaughan Greenberg</span>
+    <span class="comment-date">
+      <time datetime="2019-06-08T12:54:30Z">Jun 08, 2019</time>
+    </span>
+  </div>
+  <div class="grid__item medium-up--three-quarters">
+    <div class="rte">
+      <p>FFS who says sleeves should come halfway down the upper arm? I want one with sleeves that come down to the elbow.</p>
+    </div>
+  </div>
+</div>
+
+                  </li>
+
+                  
+                    <li><hr class="hr--clear"></li>
+                  
+                
+                  <li id="17099489400" class="comment last ">
+                    <div class="grid">
+  <div class="grid__item medium-up--one-quarter">
+    <span class="h5 comment-author">Derek D Moessinger</span>
+    <span class="comment-date">
+      <time datetime="2019-01-25T16:41:22Z">Jan 25, 2019</time>
+    </span>
+  </div>
+  <div class="grid__item medium-up--three-quarters">
+    <div class="rte">
+      <p>Excellent article. Thank you</p>
+    </div>
+  </div>
+</div>
+
+                  </li>
+
+                  
+                
+              </ul>
+
+              
+
+            
+
+            <hr class="hr--large">
+
+            <header class="section-header">
+              <h3 class="section-header__title">Leave a comment</h3>
+            </header>
+
+            <div class="form-vertical">
+              <form method="post" action="/blogs/news/how-to-choose-the-perfect-t-shirt-size/comments#comment_form" id="comment_form" accept-charset="UTF-8" class="comment-form"><input type="hidden" name="form_type" value="new_comment" /><input type="hidden" name="utf8" value="✓" />
+
+                
+
+                <div class="grid grid--small">
+                  <div class="grid__item medium-up--one-half">
+                    <label for="CommentAuthor">Name</label>
+                    <input class="input-full" type="text" name="comment[author]" id="CommentAuthor" value="" autocapitalize="words">
+                  </div>
+                  <div class="grid__item medium-up--one-half">
+                    <label for="CommentEmail">Email</label>
+                    <input class="input-full" type="email" name="comment[email]" id="CommentEmail" value="" autocorrect="off" autocapitalize="off">
+                  </div>
+                </div>
+
+                <label for="CommentBody">Message</label>
+                <textarea class="input-full" name="comment[body]" id="CommentBody"></textarea>
+
+                
+                  <p><small>Please note, comments must be approved before they are published</small></p>
+                
+
+                <button type="submit" class="btn btn--secondary">
+                  Post comment
+                </button>
+
+              </form>
+            </div>
+
+          </div>
+        
+      
+
+      <hr class="hr--large">
+
+    </article>
+
+  </div>
+
+  <div class="text-center">
+    <a href="/blogs/news" class="btn btn--small return-link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 50 15"><path d="M50 5.38v4.25H15V15L0 7.5 15 0v5.38z"/></svg> Back to Tee-Time</a>
+  </div>
+</div>
+
+
+</div>
+<script data-locksmith>Locksmith.ping()</script>
+      </main>
+
+      <div id="shopify-section-footer-promotions" class="shopify-section index-section--footer">
+
+
+
+  
+
+
+
+</div>
+      <div id="shopify-section-footer" class="shopify-section"><footer class="site-footer">
+  <div class="page-width">
+
+    <div class="grid">
+
+
+        <div  class="grid__item footer__item--1554835754490" data-type="menu">
+          <style data-shopify>
+            @media only screen and (min-width: 769px) and (max-width: 959px) {
+              .footer__item--1554835754490 {
+                width: 50%;
+                padding-top: 40px;
+              }
+              .footer__item--1554835754490:nth-child(2n + 1) {
+                clear: left;
+              }
+            }
+            @media only screen and (min-width: 960px) {
+              .footer__item--1554835754490 {
+                width: 20%;
+              }
+
+            }
+          </style>
+
+          
+            
+  
+    <p class="h4 footer__title small--hide">
+      GOODWEAR USA
+    </p>
+    <button type="button" class="h4 footer__title collapsible-trigger collapsible-trigger-btn medium-up--hide" aria-controls="Footer-1554835754490">
+      GOODWEAR USA
+      <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
+  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="M1.57 1.59l12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"/></svg>
+</span>
+
+    </button>
+  
+  <div
+    
+      id="Footer-1554835754490" class="collapsible-content collapsible-content--small"
+    >
+    <div class="collapsible-content__inner">
+      <div class="footer__collapsible">
+        <ul class="no-bullets site-footer__linklist">
+          
+            <li><a href="/pages/about-us">About Us</a></li>
+          
+            <li><a href="/pages/our-made-in-usa-quality">Our Quality </a></li>
+          
+            <li><a href="http://online.flipbuilder.com/tasd/xrde/mobile/index.html">Lookbook</a></li>
+          
+            <li><a href="/pages/wholesale">Wholesale</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+          
+        </div>
+      
+
+
+        <div  class="grid__item footer__item--1494301487049" data-type="menu">
+          <style data-shopify>
+            @media only screen and (min-width: 769px) and (max-width: 959px) {
+              .footer__item--1494301487049 {
+                width: 50%;
+                padding-top: 40px;
+              }
+              .footer__item--1494301487049:nth-child(2n + 1) {
+                clear: left;
+              }
+            }
+            @media only screen and (min-width: 960px) {
+              .footer__item--1494301487049 {
+                width: 20%;
+              }
+
+            }
+          </style>
+
+          
+            
+  
+    <p class="h4 footer__title small--hide">
+      Shop
+    </p>
+    <button type="button" class="h4 footer__title collapsible-trigger collapsible-trigger-btn medium-up--hide" aria-controls="Footer-1494301487049">
+      Shop
+      <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
+  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="M1.57 1.59l12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"/></svg>
+</span>
+
+    </button>
+  
+  <div
+    
+      id="Footer-1494301487049" class="collapsible-content collapsible-content--small"
+    >
+    <div class="collapsible-content__inner">
+      <div class="footer__collapsible">
+        <ul class="no-bullets site-footer__linklist">
+          
+            <li><a href="/collections/best-sellers">Best Sellers</a></li>
+          
+            <li><a href="/collections/short-sleeve">Short Sleeve Shirts</a></li>
+          
+            <li><a href="/collections/long-sleeve">Long Sleeve Shirts</a></li>
+          
+            <li><a href="/collections/sweatshirts-and-outerwear">Sweatshirts & Jackets</a></li>
+          
+            <li><a href="/collections/bottoms">Bottoms</a></li>
+          
+            <li><a href="/collections/womens-sleepwear">Women's</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+          
+        </div>
+      
+
+
+        <div  class="grid__item footer__item--1551896615223" data-type="menu">
+          <style data-shopify>
+            @media only screen and (min-width: 769px) and (max-width: 959px) {
+              .footer__item--1551896615223 {
+                width: 50%;
+                padding-top: 40px;
+              }
+              .footer__item--1551896615223:nth-child(2n + 1) {
+                clear: left;
+              }
+            }
+            @media only screen and (min-width: 960px) {
+              .footer__item--1551896615223 {
+                width: 20%;
+              }
+
+            }
+          </style>
+
+          
+            
+  
+    <p class="h4 footer__title small--hide">
+      Support
+    </p>
+    <button type="button" class="h4 footer__title collapsible-trigger collapsible-trigger-btn medium-up--hide" aria-controls="Footer-1551896615223">
+      Support
+      <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
+  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="M1.57 1.59l12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"/></svg>
+</span>
+
+    </button>
+  
+  <div
+    
+      id="Footer-1551896615223" class="collapsible-content collapsible-content--small"
+    >
+    <div class="collapsible-content__inner">
+      <div class="footer__collapsible">
+        <ul class="no-bullets site-footer__linklist">
+          
+            <li><a href="/pages/fit-guide">Fit Guide</a></li>
+          
+            <li><a href="/pages/about-our-fit">About Our Fit</a></li>
+          
+            <li><a href="/pages/shipping-returns">Shipping & Returns</a></li>
+          
+            <li><a href="/pages/stockist">Stocklist</a></li>
+          
+            <li><a href="/pages/contact-us">Contact</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+          
+        </div>
+      
+
+
+        <div  class="grid__item footer__item--1494292487693" data-type="newsletter">
+          <style data-shopify>
+            @media only screen and (min-width: 769px) and (max-width: 959px) {
+              .footer__item--1494292487693 {
+                width: 50%;
+                padding-top: 40px;
+              }
+              .footer__item--1494292487693:nth-child(2n + 1) {
+                clear: left;
+              }
+            }
+            @media only screen and (min-width: 960px) {
+              .footer__item--1494292487693 {
+                width: 40%;
+              }
+
+            }
+          </style>
+
+          
+            <div class="footer__item-padding">
+  
+    <p class="h4 footer__title small--hide">Sign up and save</p>
+    <button type="button" class="h4 footer__title collapsible-trigger collapsible-trigger-btn medium-up--hide" aria-controls="Footer-1494292487693">
+      Sign up and save
+      <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
+  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="M1.57 1.59l12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"/></svg>
+</span>
+
+    </button>
+  
+  <div
+    
+      id="Footer-1494292487693" class="collapsible-content collapsible-content--small"
+    >
+    <div class="collapsible-content__inner">
+      <div class="footer__collapsible">
+        
+          <p>Subscribe to stay in the loop about promotions, new releases, and giveaways.</p>
+        
+
+        <div class="klaviyo-form-MKL26A"></div>
+        
+        <ul class="no-bullets footer__social">
+          
+            <li>
+              <a target="_blank" href="https://www.facebook.com/GoodwearUSA/" title="Goodwear USA on Facebook">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 32 32"><path fill="#444" d="M18.56 31.36V17.28h4.48l.64-5.12h-5.12v-3.2c0-1.28.64-2.56 2.56-2.56h2.56V1.28H19.2c-3.84 0-7.04 2.56-7.04 7.04v3.84H7.68v5.12h4.48v14.08h6.4z"/></svg>
+                <span class="icon__fallback-text">Facebook</span>
+              </a>
+            </li>
+          
+          
+            <li>
+              <a target="_blank" href="https://twitter.com/GoodwearUSA" title="Goodwear USA on Twitter">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter" viewBox="0 0 32 32"><path fill="#444" d="M31.281 6.733q-1.304 1.924-3.13 3.26 0 .13.033.408t.033.408q0 2.543-.75 5.086t-2.282 4.858-3.635 4.108-5.053 2.869-6.341 1.076q-5.282 0-9.65-2.836.913.065 1.5.065 4.401 0 7.857-2.673-2.054-.033-3.668-1.255t-2.266-3.146q.554.13 1.206.13.88 0 1.663-.261-2.184-.456-3.619-2.184t-1.435-3.977v-.065q1.239.652 2.836.717-1.271-.848-2.021-2.233t-.75-2.983q0-1.63.815-3.195 2.38 2.967 5.754 4.678t7.319 1.907q-.228-.815-.228-1.434 0-2.608 1.858-4.45t4.532-1.842q1.304 0 2.51.522t2.054 1.467q2.152-.424 4.01-1.532-.685 2.217-2.771 3.488 1.989-.261 3.619-.978z"/></svg>
+                <span class="icon__fallback-text">Twitter</span>
+              </a>
+            </li>
+          
+          
+            <li>
+              <a target="_blank" href="https://www.pinterest.com/goodwearusa/" title="Goodwear USA on Pinterest">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pinterest" viewBox="0 0 32 32"><path fill="#444" d="M27.52 9.6c-.64-5.76-6.4-8.32-12.8-7.68-4.48.64-9.6 4.48-9.6 10.24 0 3.2.64 5.76 3.84 6.4 1.28-2.56-.64-3.2-.64-4.48-1.28-7.04 8.32-12.16 13.44-7.04 3.2 3.84 1.28 14.08-4.48 13.44-5.12-1.28 2.56-9.6-1.92-11.52-3.2-1.28-5.12 4.48-3.84 7.04-1.28 4.48-3.2 8.96-1.92 15.36 2.56-1.92 3.84-5.76 4.48-9.6 1.28.64 1.92 1.92 3.84 1.92 6.4-.64 10.24-7.68 9.6-14.08z"/></svg>
+                <span class="icon__fallback-text">Pinterest</span>
+              </a>
+            </li>
+          
+          
+            <li>
+              <a target="_blank" href="https://www.instagram.com/goodwearusa/" title="Goodwear USA on Instagram">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 32 32"><path fill="#444" d="M16 3.094c4.206 0 4.7.019 6.363.094 1.538.069 2.369.325 2.925.544.738.287 1.262.625 1.813 1.175s.894 1.075 1.175 1.813c.212.556.475 1.387.544 2.925.075 1.662.094 2.156.094 6.363s-.019 4.7-.094 6.363c-.069 1.538-.325 2.369-.544 2.925-.288.738-.625 1.262-1.175 1.813s-1.075.894-1.813 1.175c-.556.212-1.387.475-2.925.544-1.663.075-2.156.094-6.363.094s-4.7-.019-6.363-.094c-1.537-.069-2.369-.325-2.925-.544-.737-.288-1.263-.625-1.813-1.175s-.894-1.075-1.175-1.813c-.212-.556-.475-1.387-.544-2.925-.075-1.663-.094-2.156-.094-6.363s.019-4.7.094-6.363c.069-1.537.325-2.369.544-2.925.287-.737.625-1.263 1.175-1.813s1.075-.894 1.813-1.175c.556-.212 1.388-.475 2.925-.544 1.662-.081 2.156-.094 6.363-.094zm0-2.838c-4.275 0-4.813.019-6.494.094-1.675.075-2.819.344-3.819.731-1.037.4-1.913.944-2.788 1.819S1.486 4.656 1.08 5.688c-.387 1-.656 2.144-.731 3.825-.075 1.675-.094 2.213-.094 6.488s.019 4.813.094 6.494c.075 1.675.344 2.819.731 3.825.4 1.038.944 1.913 1.819 2.788s1.756 1.413 2.788 1.819c1 .387 2.144.656 3.825.731s2.213.094 6.494.094 4.813-.019 6.494-.094c1.675-.075 2.819-.344 3.825-.731 1.038-.4 1.913-.944 2.788-1.819s1.413-1.756 1.819-2.788c.387-1 .656-2.144.731-3.825s.094-2.212.094-6.494-.019-4.813-.094-6.494c-.075-1.675-.344-2.819-.731-3.825-.4-1.038-.944-1.913-1.819-2.788s-1.756-1.413-2.788-1.819c-1-.387-2.144-.656-3.825-.731C20.812.275 20.275.256 16 .256z"/><path fill="#444" d="M16 7.912a8.088 8.088 0 0 0 0 16.175c4.463 0 8.087-3.625 8.087-8.088s-3.625-8.088-8.088-8.088zm0 13.338a5.25 5.25 0 1 1 0-10.5 5.25 5.25 0 1 1 0 10.5zM26.294 7.594a1.887 1.887 0 1 1-3.774.002 1.887 1.887 0 0 1 3.774-.003z"/></svg>
+                <span class="icon__fallback-text">Instagram</span>
+              </a>
+            </li>
+          
+          
+          
+          
+          
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+          
+        </div>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+
+    
+
+    
+      <p class="footer__small-text">
+        &copy; 2021 Goodwear USA
+        
+      </p>
+    
+
+  </div>
+</footer>
+
+
+</div>
+
+    </div>
+  </div>
+
+  <div id="shopify-section-newsletter-popup" class="shopify-section index-section--hidden">
+
+
+</div>
+
+  
+    <script id="CartTemplate" type="text/template">
+
+  <form action="/cart" method="post" novalidate class="cart ajaxcart">
+    <div class="drawer__inner drawer__inner--has-fixed-footer">
+      {{#items}}
+      <div class="ajaxcart__product appear-animation appear-delay-{{animationRow}}">
+        <div class="ajaxcart__row">
+          <div class="grid">
+            <div class="grid__item one-third">
+              <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+            </div>
+            <div class="grid__item two-thirds">
+              <div class="ajaxcart__product-name--wrapper">
+                <a href="{{url}}" class="ajaxcart__product-name">{{{name}}}</a>
+                {{#if variation}}
+                  <span class="ajaxcart__product-meta">{{variation}}</span>
+                {{/if}}
+                {{#properties}}
+                  {{#each this}}
+                    {{#if this}}
+                      <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                    {{/if}}
+                  {{/each}}
+                {{/properties}}
+              </div>
+
+              <div class="grid grid--full display-table">
+                <div class="grid__item display-table-cell one-half">
+                  <div class="ajaxcart__quantity js-qty">
+                    <label for="updates_{{key}}" class="visually-hidden">Quantity</label>
+                    <input type="number" id="updates_{{key}}" name="updates[]" value="{{itemQty}}" min="0" class="js-qty__fallback" data-id="{{key}}">
+                  </div>
+                </div>
+                <div class="grid__item display-table-cell one-half text-right">
+                  
+                  {{#if discountsApplied}}
+                    <small class="ajaxcart__price--strikethrough">{{{price}}}</small>
+                    <span class="ajaxcart__price">
+                      {{{discountedPrice}}}
+                    </span>
+                  {{else}}
+                    <span class="ajaxcart__price">
+	                  {{{price}}}
+                    </span>
+                  {{/if}}
+                </div>
+              </div>
+              {{#if discountsApplied}}
+                <div class="grid grid--full display-table">
+                  <div class="grid__item text-right">
+                    {{#each discounts}}
+                      <small class="ajaxcart__discount">{{this.title}}</small>
+                    {{/each}}
+                  </div>
+                </div>
+              {{/if}}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{/items}}
+
+      
+    </div>
+    <div class="drawer__footer drawer__footer--fixed appear-animation appear-delay-{{lastAnimationRow}}">
+      {{#if freeUSShipping}}
+      	<span class="free-shipping-yes">Congrats! You're eligible for free US shipping.</span>
+      {{else}}
+      	<span class="free-shipping-no">You're {{ freeShipDifference }} away from free US shipping.</span> 
+      {{/if}}
+	  <div class="grid grid--full">
+        <div class="grid__item two-thirds">
+          <p class="ajaxcart__subtotal">Subtotal</p>
+        </div>
+        <div class="grid__item one-third text-right">
+          <p class="ajaxcart__price">{{{totalPrice}}}</p>
+        </div>
+      </div>
+      {{#if totalCartDiscount}}
+        <p class="ajaxcart__savings text-center">{{{totalCartDiscount}}}</p>
+      {{/if}}
+      <p class="ajaxcart__note">
+        Shipping, taxes, and discounts calculated at checkout.
+        
+      </p>
+      
+      
+        
+      
+      <button type="submit" class="btn btn--full cart__checkout" name="checkout">
+        Check out
+      </button>
+    </div>
+  </form>
+
+</script>
+
+  
+
+  
+
+  <script id="JsQty" type="text/template">
+
+  <div class="js-qty__wrapper">
+    <button type="button"
+      class="js-qty__adjust js-qty__adjust--minus"
+      data-id="{{key}}"
+      data-qty="{{itemMinus}}"
+      aria-label="Reduce item quantity by one">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-minus" viewBox="0 0 20 20"><path fill="#444" d="M17.543 11.029H2.1A1.032 1.032 0 0 1 1.071 10c0-.566.463-1.029 1.029-1.029h15.443c.566 0 1.029.463 1.029 1.029 0 .566-.463 1.029-1.029 1.029z"/></svg>
+        <span class="icon__fallback-text" aria-hidden="true">&minus;</span>
+    </button>
+    <input type="text" id="{{inputId}}"
+      class="js-qty__num"
+      value="{{itemQty}}"
+      min="1"
+      data-id="{{key}}"
+      aria-label="quantity"
+      pattern="[0-9]*"
+      name="{{inputName}}">
+    <button type="button"
+      class="js-qty__adjust js-qty__adjust--plus"
+      data-id="{{key}}"
+      data-qty="{{itemAdd}}"
+      aria-label="Increase item quantity by one">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" viewBox="0 0 20 20"><path fill="#444" d="M17.409 8.929h-6.695V2.258c0-.566-.506-1.029-1.071-1.029s-1.071.463-1.071 1.029v6.671H1.967C1.401 8.929.938 9.435.938 10s.463 1.071 1.029 1.071h6.605V17.7c0 .566.506 1.029 1.071 1.029s1.071-.463 1.071-1.029v-6.629h6.695c.566 0 1.029-.506 1.029-1.071s-.463-1.071-1.029-1.071z"/></svg>
+        <span class="icon__fallback-text" aria-hidden="true">+</span>
+    </button>
+  </div>
+
+</script>
+
+  <div id="VideoModal" class="modal modal--solid">
+  <div class="modal__inner">
+    <div class="modal__centered page-width text-center">
+      <div class="modal__centered-content">
+        <div class="video-wrapper video-wrapper--modal">
+          <div id="VideoHolder"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <button type="button" class="modal__close js-modal-close text-link">
+    <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+    <span class="icon__fallback-text">"Close (esc)"</span>
+  </button>
+</div>
+
+
+  <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="pswp__bg"></div>
+  <div class="pswp__scroll-wrap">
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+
+    <div class="pswp__ui pswp__ui--hidden">
+      <div class="pswp__top-bar">
+        <div class="pswp__counter"></div>
+        <button class="pswp__button pswp__button--close" title="Close (esc)">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
+        </button>
+
+        <div class="pswp__preloader">
+          <div class="pswp__preloader__icn">
+            <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+        <div class="pswp__share-tooltip"></div>
+      </div>
+
+      <button class="pswp__button pswp__button--arrow--left" title="Previous">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 50 15"><path d="M50 5.38v4.25H15V15L0 7.5 15 0v5.38z"/></svg>
+      </button>
+
+      <button class="pswp__button pswp__button--arrow--right" title="Next">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-right" viewBox="0 0 50 15"><path d="M0 9.63V5.38h35V0l15 7.5L35 15V9.63z"/></svg>
+      </button>
+
+      <div class="pswp__caption">
+        <div class="pswp__caption__center"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+
+
+
+<!-- This line added automatically by JSON-LD for SEO. -->
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https:\/\/www.goodwear.com\/#org",
+    "name": "Goodwear USA",
+    "url": "https://www.goodwear.com",
+    "description": "Goodwear USA is an upscale American Made Clothing brand. Enhance your wardrobe by shopping our selection of quality Made in USA t-shirts, sweaters, shorts, and more!",
+    "telephone": "978-768-7746",
+    "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/1375\/0525\/t\/51\/assets\/logo_small.png?13842",
+    "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/1375\/0525\/t\/51\/assets\/logo_small.png?13842",
+    "sameAs": [],
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "239 Western Ave , Ste 2D",
+        "addressLocality": "Essex",
+        "addressRegion": "Massachusetts",
+        "postalCode": "01929",
+        "addressCountry": "United States"
+    }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https:\/\/www.goodwear.com\/blogs\/news\/how-to-choose-the-perfect-t-shirt-size#article",
+  "url": "https:\/\/www.goodwear.com\/blogs\/news\/how-to-choose-the-perfect-t-shirt-size",
+  "mainEntityOfPage": "https:\/\/www.goodwear.com\/blogs\/news\/how-to-choose-the-perfect-t-shirt-size",
+  "name": "How to Choose the Perfect T-Shirt Size",
+  "author": "Stephen Liquori",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/1375\/0525\/t\/51\/assets\/logo_small.png?13842"
+    },
+    "name": "Goodwear USA"
+  },
+  "headline": "How to Choose the Perfect T-Shirt Size",
+  "image": {
+    "@type": "ImageObject",
+    "width": 1024,
+    "height": 1024,"url": "https://cdn.shopify.com/s/files/1/1375/0525/articles/t-shirt_size_7_1024x1024.jpg?v=1585242235"},
+  "datePublished": "2017-09-18 12:22:51 -0400",
+  "dateModified": "2020-03-26 13:03:55 -0400",
+  "description": "\nEveryone loves t-shirts. They’re one of the most universal clothing items around. It doesn’t matter whether you’re a man or a woman, young or old. They’re great for sleeping in or going to the gym. They’re perfect to wear when you need to do some yard work or gardening. They’re comfortable and low-maintenance for a low-key Sunday of hanging out around the house watching TV.\nThe Longevity Of The T-Shirt\nTrends have come and gone over the years, but the t-shirt is one staple that has been here a long time and doesn’t look like it’s going anywhere anytime soon. One of the reasons for this universal appeal is how many situations it’s good for. Another reason is how absolutely comfortable it is.\nWhile many button-downs, polos, sweaters or dress shirts feel stiff, or cling too tightly, or have uncomfortable collars, the t-shirt is soft, flexible and wonderfully comfortable.\nAnother reason for the t-shirt’s popularity is how versatile it is. It can be worn on its own, or it can be worn underneath an open button-up, or it can be hidden underneath a sweater or other shirt for an extra layer of warmth. They can be a solid color, they can be patterned, or they can come in wild designs and covered with fun graphic pictures or quotes. They can look very casual, or they can look a little bit dressier, particularly if you choose a solid color and wear it with a nice pair of blue jeans or khakis.\n\nFinding The Perfect T-Shirt Size\nWhat is not so great about t-shirts is how difficult it can be to find one that fits properly. In some cases, choosing the right t-Shirt can be annoyingly complicated. It’s something that seems like it should be easy, but in reality, is very complicated. Many t-shirts seem to cling in the wrong places, or hang awkwardly like a box or look awkward and ill-fitting in some other way.\nAt Goodwear, we believe that finding a t-shirt that fits you properly shouldn’t be so complicated. To help you learn how to find the perfect t-shirt fit for you and your body, we’ve put together some tips and tricks.\n\n5 Tips \u0026amp; Tricks For Finding The Perfect T-Shirt\nIt would be nice if t-shirt sizes were standard, and that if every time you picked up a size medium in any store, it was exactly the same size. Unfortunately, a medium in some stores is the size of an extra large in other stores.\nBecause of the raging disparity in what the size label actually means, it’s difficult to determine what size t-shirt you should be wearing.\nThe solution? Stop worrying so much about what size you are. Most likely, you’ll be a different size at every store you visit. Instead, try on a variety of sizes every place you go, and use your best judgment as you evaluate how the shirt looks on you to determine what size to buy.\nWhen determining how a t-shirt should fit, here are some things to look for:\n1. Size\/Tightness\nA t-shirt that fits correctly should be neither too tight nor too loose. If it’s too loose, it’ll hang on you like a box and look completely unflattering. If it’s too tight, it’ll look like you’re squeezed into it and are about to burst the seams at any point — a look that will almost certainly come across as conceited and annoying.\n2. Shoulder Seams\nThe shoulder seams are a good way to tell how well a shirt fits you. Ideally, these seams should reach to the end of your shoulder at the very top of your arm. If they extend down your upper arm, the shirt is too big. If they don’t reach the end of your shoulder, the shirt is too small.\n3. Sleeves\nThe sleeves should extend about halfway down your upper arm. If you’re exceptionally tall, you might be safe wearing sleeves that are slightly longer, as these will look more proportional.\n4. Length\nThe bottom hem of your t-shirt shouldn’t hit any higher than your hips, or it’s too small. It should cover your waistband and extend a few inches past that. If it’s shorter than that, it’ll look like a crop top when you raise your arms. If it’s longer than that, it’ll look like a dress. When trying on a t-shirt, make sure you raise your arms to see how far it rides up.\n5. Shape\nMany cheap t-shirts have no shape to them at all. They hang like boxes when you put them on and are extremely unattractive. Search instead for a t-shirt that follows the lines of your body a little more. Avoid any that are cut in the shapes of large squares.\nHow to Measure Yourself for a T-Shirt\nWhen it comes to choosing a size for a t-shirt, the sizes can be all over the map. This often makes them less than helpful. In some cases, however, the store or brand may provide a sizing chart.\nA t-shirt sizing chart like ours can be helpful because it breaks down a list of measurements and tells you what size those measurements will add up to. This makes it easy to glance at the chart for your size chest, for example, and see what size shirt someone with that measurement ought to wear.\nWhen it comes to measuring yourself for a t-shirt, here are the measurements you should take:\n1. Chest\n\nTo measure your chest, wrap the tape measure under your armpits and around the fullest part of your chest. It’s important to stand normally, without flexing or puffing out your chest. The tape measure should be snug, but it shouldn’t be so tight that it hampers your breathing.\n2. Length\nThe bottom hem of your t-shirt should go a few inches below your waistband. To measure the length you need, stand straight and measure from the high point of your shoulder to below your waist.\nHow to Pick a T-Shirt for Your Body Type\nBefore you can pick the t-shirt that will look perfect on your body type, you have to know what your body type is. Let’s run through the most common body types briefly.\n\n\nRectangle: This body type is fairly self-explanatory. This means your shoulders and your waist are roughly the same width, giving a rectangular shape. People with this body type tend to be tall and slightly built.\n\nOval: The oval body type is very similar to the rectangle build, but it normally involves a larger frame and a softer middle.\n\nTrapezoid: With this body type, the shoulders are wider than the waist. This is the body type that many associate with a sports star or a traditional Hollywood heartthrob.\n\nInverted Triangle: This body type is the trapezoid taken to the extreme. The shoulders are much wider than the waist, and the shoulder-to-waist ratio forms an upside down triangle.\n\nNon-Inverted Triangle: The exact opposite of the inverted triangle, this body type is distinguished by a waist that is wider than the shoulders.\n\nThe 3 Common T-Shirt Fits\nThe general rule of thumb when it comes to t-shirts is the same rule that governs most clothing. If you have muscle, don’t hide it. If you don’t have a lot of muscle, do your best to play up what you do have. And if you’re carrying extra weight, many styles will help you mask that.\nA quick breakdown of some of the most common styles of T-shirts includes:\n\n\nSlim Fit: This fit is meant to be tighter on your body. This is the perfect T-shirt if you are looking to show off your figure.\n\n\n\nClassic Fit: If you are looking for a looser and comfortable fit a classic fit T-shirt is the perfect choice!\n\n\n\nModern Fit: Are you looking for a structured and stylish fit that does not hug your body? A modern fit t-shirt is the perfect solution for you.\n\nWhy It’s Important to Invest in High-Quality T-Shirts\nAnyone can go to their local department or super store and pick up a TtShirt for a few dollars. Plenty of people do, and there’s certainly nothing wrong with that.\nHowever, there are several notable down sides to buying those kinds of t-shirts. The biggest difference is the lack of quality. These TtShirts are cheap, which means they’re affordable, but it also means they aren’t likely to last very long. You might have them for a season or a year, but they’ll soon rip, tear and lose their vibrant color.\nMany cheap t-Shirts are also made of cheap material that is uncomfortable and scratchy to the touch. They also tend to shrink in the wash, meaning that you only get a few good wears out of it before it’s too small for you.\nIt’s worth it to spend a little more and buy a high quality t-shirt. The cost will be more than offset by how long it will last you. One nice t-shirt can last you for years, whereas you might have to buy three or four cheaper t-shirts to make it through the same amount of time.\nA more expensive t-Shirt will also be more comfortable. The fabric will be softer and gentler on your skin. It’ll wash better, and won’t shrink or lose its shape.\nWhen you buy a more expensive t-shirt, you’re also more likely to find a size that fits you better and is more flattering to you. Many cheaply made t-shirts are cut in very standard, square box shapes that aren’t flattering on anyone. To find a shape and a design that really flatters your body, you’re going to have to spend a little extra money to get the quality that will come with a well-designed t-shirt.\n\nWhat Makes Our T-Shirts Different\nAt Goodwear, we believe that every t-shirt you buy should be the perfect t-shirt. We believe in selling you quality products that have been proudly manufactured right here in the USA. We prioritize quality over everything else and are wholly committed to producing top-quality clothing items that will last for years to come without getting holes, stretching out, shrinking or fading.\nWe know that everyone is looking for their perfect t-shirt. Whether you’ve never been able to find the right one because you can’t find the right size, or because the ones you’ve bought in the past keep ripping or losing their shape, we understand that struggle.\nWe’re confident that when you buy one of our carefully-crafted high-quality t-shirts, your t-shirt search will be over, and you’ll look no further for the perfect shirt. When you buy t-shirts from us, you’re investing in wardrobe staples that will last you for years to come.\nWhat makes our shirt so special is the care and effort that we devote to making them. They manufactured in the USA, meaning they aren’t being produced cheaply overseas. We’re committed to making high-quality products because we believe that you don’t deserve anything less.\n\nShop Goodwear T-Shirts Today\nWe hope you’re convinced of how worthwhile it is to invest in great wardrobe staples like t-shirts. And we hope you’ll consider shopping at Goodwear to fulfill those needs.\nFor almost 35 years, Goodwear has been a proud manufacturer of American-made clothing items, and our work and our reputation has only grown stronger from there. When you shop with us, you can feel confident that you’re supporting an American company that’s committed to delivering quality goods every time.\n",
+  "articleBody": "\nEveryone loves t-shirts. They’re one of the most universal clothing items around. It doesn’t matter whether you’re a man or a woman, young or old. They’re great for sleeping in or going to the gym. They’re perfect to wear when you need to do some yard work or gardening. They’re comfortable and low-maintenance for a low-key Sunday of hanging out around the house watching TV.\nThe Longevity Of The T-Shirt\nTrends have come and gone over the years, but the t-shirt is one staple that has been here a long time and doesn’t look like it’s going anywhere anytime soon. One of the reasons for this universal appeal is how many situations it’s good for. Another reason is how absolutely comfortable it is.\nWhile many button-downs, polos, sweaters or dress shirts feel stiff, or cling too tightly, or have uncomfortable collars, the t-shirt is soft, flexible and wonderfully comfortable.\nAnother reason for the t-shirt’s popularity is how versatile it is. It can be worn on its own, or it can be worn underneath an open button-up, or it can be hidden underneath a sweater or other shirt for an extra layer of warmth. They can be a solid color, they can be patterned, or they can come in wild designs and covered with fun graphic pictures or quotes. They can look very casual, or they can look a little bit dressier, particularly if you choose a solid color and wear it with a nice pair of blue jeans or khakis.\n\nFinding The Perfect T-Shirt Size\nWhat is not so great about t-shirts is how difficult it can be to find one that fits properly. In some cases, choosing the right t-Shirt can be annoyingly complicated. It’s something that seems like it should be easy, but in reality, is very complicated. Many t-shirts seem to cling in the wrong places, or hang awkwardly like a box or look awkward and ill-fitting in some other way.\nAt Goodwear, we believe that finding a t-shirt that fits you properly shouldn’t be so complicated. To help you learn how to find the perfect t-shirt fit for you and your body, we’ve put together some tips and tricks.\n\n5 Tips \u0026amp; Tricks For Finding The Perfect T-Shirt\nIt would be nice if t-shirt sizes were standard, and that if every time you picked up a size medium in any store, it was exactly the same size. Unfortunately, a medium in some stores is the size of an extra large in other stores.\nBecause of the raging disparity in what the size label actually means, it’s difficult to determine what size t-shirt you should be wearing.\nThe solution? Stop worrying so much about what size you are. Most likely, you’ll be a different size at every store you visit. Instead, try on a variety of sizes every place you go, and use your best judgment as you evaluate how the shirt looks on you to determine what size to buy.\nWhen determining how a t-shirt should fit, here are some things to look for:\n1. Size\/Tightness\nA t-shirt that fits correctly should be neither too tight nor too loose. If it’s too loose, it’ll hang on you like a box and look completely unflattering. If it’s too tight, it’ll look like you’re squeezed into it and are about to burst the seams at any point — a look that will almost certainly come across as conceited and annoying.\n2. Shoulder Seams\nThe shoulder seams are a good way to tell how well a shirt fits you. Ideally, these seams should reach to the end of your shoulder at the very top of your arm. If they extend down your upper arm, the shirt is too big. If they don’t reach the end of your shoulder, the shirt is too small.\n3. Sleeves\nThe sleeves should extend about halfway down your upper arm. If you’re exceptionally tall, you might be safe wearing sleeves that are slightly longer, as these will look more proportional.\n4. Length\nThe bottom hem of your t-shirt shouldn’t hit any higher than your hips, or it’s too small. It should cover your waistband and extend a few inches past that. If it’s shorter than that, it’ll look like a crop top when you raise your arms. If it’s longer than that, it’ll look like a dress. When trying on a t-shirt, make sure you raise your arms to see how far it rides up.\n5. Shape\nMany cheap t-shirts have no shape to them at all. They hang like boxes when you put them on and are extremely unattractive. Search instead for a t-shirt that follows the lines of your body a little more. Avoid any that are cut in the shapes of large squares.\nHow to Measure Yourself for a T-Shirt\nWhen it comes to choosing a size for a t-shirt, the sizes can be all over the map. This often makes them less than helpful. In some cases, however, the store or brand may provide a sizing chart.\nA t-shirt sizing chart like ours can be helpful because it breaks down a list of measurements and tells you what size those measurements will add up to. This makes it easy to glance at the chart for your size chest, for example, and see what size shirt someone with that measurement ought to wear.\nWhen it comes to measuring yourself for a t-shirt, here are the measurements you should take:\n1. Chest\n\nTo measure your chest, wrap the tape measure under your armpits and around the fullest part of your chest. It’s important to stand normally, without flexing or puffing out your chest. The tape measure should be snug, but it shouldn’t be so tight that it hampers your breathing.\n2. Length\nThe bottom hem of your t-shirt should go a few inches below your waistband. To measure the length you need, stand straight and measure from the high point of your shoulder to below your waist.\nHow to Pick a T-Shirt for Your Body Type\nBefore you can pick the t-shirt that will look perfect on your body type, you have to know what your body type is. Let’s run through the most common body types briefly.\n\n\nRectangle: This body type is fairly self-explanatory. This means your shoulders and your waist are roughly the same width, giving a rectangular shape. People with this body type tend to be tall and slightly built.\n\nOval: The oval body type is very similar to the rectangle build, but it normally involves a larger frame and a softer middle.\n\nTrapezoid: With this body type, the shoulders are wider than the waist. This is the body type that many associate with a sports star or a traditional Hollywood heartthrob.\n\nInverted Triangle: This body type is the trapezoid taken to the extreme. The shoulders are much wider than the waist, and the shoulder-to-waist ratio forms an upside down triangle.\n\nNon-Inverted Triangle: The exact opposite of the inverted triangle, this body type is distinguished by a waist that is wider than the shoulders.\n\nThe 3 Common T-Shirt Fits\nThe general rule of thumb when it comes to t-shirts is the same rule that governs most clothing. If you have muscle, don’t hide it. If you don’t have a lot of muscle, do your best to play up what you do have. And if you’re carrying extra weight, many styles will help you mask that.\nA quick breakdown of some of the most common styles of T-shirts includes:\n\n\nSlim Fit: This fit is meant to be tighter on your body. This is the perfect T-shirt if you are looking to show off your figure.\n\n\n\nClassic Fit: If you are looking for a looser and comfortable fit a classic fit T-shirt is the perfect choice!\n\n\n\nModern Fit: Are you looking for a structured and stylish fit that does not hug your body? A modern fit t-shirt is the perfect solution for you.\n\nWhy It’s Important to Invest in High-Quality T-Shirts\nAnyone can go to their local department or super store and pick up a TtShirt for a few dollars. Plenty of people do, and there’s certainly nothing wrong with that.\nHowever, there are several notable down sides to buying those kinds of t-shirts. The biggest difference is the lack of quality. These TtShirts are cheap, which means they’re affordable, but it also means they aren’t likely to last very long. You might have them for a season or a year, but they’ll soon rip, tear and lose their vibrant color.\nMany cheap t-Shirts are also made of cheap material that is uncomfortable and scratchy to the touch. They also tend to shrink in the wash, meaning that you only get a few good wears out of it before it’s too small for you.\nIt’s worth it to spend a little more and buy a high quality t-shirt. The cost will be more than offset by how long it will last you. One nice t-shirt can last you for years, whereas you might have to buy three or four cheaper t-shirts to make it through the same amount of time.\nA more expensive t-Shirt will also be more comfortable. The fabric will be softer and gentler on your skin. It’ll wash better, and won’t shrink or lose its shape.\nWhen you buy a more expensive t-shirt, you’re also more likely to find a size that fits you better and is more flattering to you. Many cheaply made t-shirts are cut in very standard, square box shapes that aren’t flattering on anyone. To find a shape and a design that really flatters your body, you’re going to have to spend a little extra money to get the quality that will come with a well-designed t-shirt.\n\nWhat Makes Our T-Shirts Different\nAt Goodwear, we believe that every t-shirt you buy should be the perfect t-shirt. We believe in selling you quality products that have been proudly manufactured right here in the USA. We prioritize quality over everything else and are wholly committed to producing top-quality clothing items that will last for years to come without getting holes, stretching out, shrinking or fading.\nWe know that everyone is looking for their perfect t-shirt. Whether you’ve never been able to find the right one because you can’t find the right size, or because the ones you’ve bought in the past keep ripping or losing their shape, we understand that struggle.\nWe’re confident that when you buy one of our carefully-crafted high-quality t-shirts, your t-shirt search will be over, and you’ll look no further for the perfect shirt. When you buy t-shirts from us, you’re investing in wardrobe staples that will last you for years to come.\nWhat makes our shirt so special is the care and effort that we devote to making them. They manufactured in the USA, meaning they aren’t being produced cheaply overseas. We’re committed to making high-quality products because we believe that you don’t deserve anything less.\n\nShop Goodwear T-Shirts Today\nWe hope you’re convinced of how worthwhile it is to invest in great wardrobe staples like t-shirts. And we hope you’ll consider shopping at Goodwear to fulfill those needs.\nFor almost 35 years, Goodwear has been a proud manufacturer of American-made clothing items, and our work and our reputation has only grown stronger from there. When you shop with us, you can feel confident that you’re supporting an American company that’s committed to delivering quality goods every time.\n"
+
+
+
+  
+  
+  
+}
+</script>
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- product  set-price -->
+<!-- product.price : wh_price -->
+<!-- product.price_min  : wh_price_min  -->
+<!-- product.price_max  : wh_price_max  -->
+
+<!-- wh_discount_value 1 -->
+<!-- compare_at_price : wh_compare_at_price  -->
+<!-- compare_at_price_min : wh_compare_at_price_min  -->
+<!-- compare_at_price_max : wh_compare_at_price_max  -->
+
+          
+
+
+
+
+
+
+
+<script data-cfasync="false" data-no-instant>window.jQuery ||
+  document.write("<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'>\x3C/script>")
+</script>
+
+
+<script type="text/javascript">
+  
+  window.saso = {
+    shop_slug: "goodwearusa",
+    money_format: "${{amount}}",
+    customer: null,
+    cart: null,
+  }
+  window.saso_extras = {}
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+  	window.saso.cart = {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[]}
+    delete window.saso.cart.note
+    window.saso.cart_collections = {}
+    
+	if (typeof window.saso.cart.items == "object") {
+    	for (var i=0; i<window.saso.cart.items.length; i++) {
+        	["sku", "grams", "vendor", "url", "image", "handle", "requires_shipping", "product_type", "product_description"].map(function(a) {
+          		delete window.saso.cart.items[i][a]
+        	})
+    	}
+    }
+  
+
+  window.saso.page_type = ""
+  if (typeof window.location == "object" && typeof window.location.pathname == "string") {
+    if (window.location.pathname.indexOf('/checkouts/') > -1) {
+      window.saso.page_type = "checkout"
+    }
+  }
+</script>
+
+
+
+
+
+        <script data-cfasync="false">
+          jQuery(function(){
+            jQuery(document).on('click', "input[name='checkout']:not(.saso-ignore), input[value='Checkout']:not(.saso-ignore), button[name='checkout']:not(.saso-ignore), [href$='checkout']:not(.saso-ignore), button[value='Checkout']:not(.saso-ignore), input[name='goto_pp'], button[name='goto_pp'], input[name='goto_gc'], button[name='goto_gc']", function(e){
+              e.preventDefault();
+
+              if (typeof sasoCheckout != "function") {
+              	window.location = "/checkout";
+              }
+
+              jQuery.ajax({
+                          cache: false,
+                          contentType: "application/json; charset=utf-8",
+                          dataType: "json",
+                          type: "GET",
+                          url: '/cart.js',
+                          success: function(res) {
+                            window.saso.cart = res
+                            sasoCheckout()
+                          }
+                        })
+
+            });
+          });
+        </script>
+
+
+
+
+
+      <!-- Wholesale Hero Start -->
+      
+
+      
+      <!-- Wholesale Hero End -->
+ <script type='text/javascript'>
+        <!-- WHTestJS Start-->
+        (function() {
+        if(window.location.search.includes('ws_test') || localStorage.getItem('ws_test')=='true'){
+          console.log('whtestingjs');
+          var head = document.getElementsByTagName('head')[0];
+          var script = document.createElement('script');
+          window.test_discount_group = true;
+          script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/discount_group_test.js?2167596224708722148";
+          script.type = 'text/javascript';
+          head.appendChild(script);
+        }
+        })();
+        <!-- WHTestJS End-->
+      </script>
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQCR37M');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQCR37M"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=JjAacd"></script>
+
+<script>
+ if(Storage !== undefined) {
+
+     var defaultLink = "/";
+
+     
+
+     
+
+ }
+</script>
+
+<script src="https://a.klaviyo.com/media/js/onsite/onsite.js"></script>
+<script>
+    var klaviyo = klaviyo || [];
+    klaviyo.init({
+      account: "JjAacd",
+      list: "QXq256",
+      platform: "shopify"
+    });
+    klaviyo.enable("backinstock",{ 
+    trigger: {
+      product_page_text: "Notify Me When Available",
+      product_page_class: "btn",
+      product_page_text_align: "center",
+      product_page_margin: "0px",
+      replace_anchor: false
+    },
+    modal: {
+     headline: "{product_name}",
+     body_content: "This product is temporarily sold out. Sign up to be the first to know when it becomes available again.",
+     email_field_label: "Email",
+     button_label: "Notify me when available",
+     subscription_success_label: "You're in! We'll let you know when it's back.",
+     footer_content: '',
+     additional_styles: "@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue');",
+     drop_background_color: "#000",
+     background_color: "#fff",
+     text_color: "#222",
+     button_text_color: "#fff",
+     button_background_color: "#063d6f",
+     close_button_color: "#ccc",
+     error_background_color: "#fcd6d7",
+     error_text_color: "#C72E2F",
+     success_background_color: "#d3efcd",
+     success_text_color: "#1B9500"
+    }
+  });
+</script>
+
+  
+  
+  <script src="https://cdn.attn.tv/goodwear/dtag.js"></script>
+</body>
+</html>

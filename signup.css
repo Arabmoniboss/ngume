@@ -1,0 +1,55 @@
+.modal {
+    position: fixed;
+    display: none;
+  background: rgba(255, 238, 0, 0.76);
+  z-index: 200;
+  left: 0;
+  border-radius: 1rem;
+    top: 0;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+#sign-up {
+    padding: 3rem 0;
+    margin-left: 2.5rem;
+    font-family: "Poppins",sans-serif;
+    display: block;
+}
+.prompt {
+    color: rgba(255, 238, 0, 0.76);
+    font-family: "Poppins",sans-serif;
+    font-size: 1.8rem;
+}
+label, input {
+    display: block;
+    width: 87%;
+    height: 2.5rem;
+    min-width: 14rem;
+}
+@media (min-width: 40rem) {
+    label, input {
+        display: block;
+        width: 32%;
+        height: 2.5rem;
+        min-width: 14rem;
+    }
+}
+[for] {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+}
+[type] {
+    margin-top: 1rem;
+    border: 2px solid #ccc;
+}
+[name="password"] {
+    margin-bottom: 1rem;
+}
+#form-btn {
+    background: rgba(255, 238, 0, 0.76);
+    color:  rgb(83, 33, 33);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}

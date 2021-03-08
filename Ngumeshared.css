@@ -1,0 +1,285 @@
+:root {
+    --my-yellow: rgb(223, 223, 29);
+    --my-brown: rgb(83, 33, 33);
+} 
+
+* {
+    box-sizing: border-box;
+    font-family:'Roboto', sans-serif;
+}
+html {
+  width:100vw ;
+}
+
+body {
+    font-family: 'Anton', sans-serif; 
+    /*The second h1 element and the paragraph<p> inherits the font-family of the body because they both don't
+    any individual font-family in the stylesheet. Hence, they inherit from the parent element that has which
+    in this case is the body element.*/
+    margin: 0;
+    width: 100vw;
+
+    background: cornflowerblue;
+}
+.backdrop {
+    position: fixed;
+   display:none;
+    top: 0;
+    z-index: 100;
+    width: 100vw;
+    height: 100vh;
+    background:rgba(14, 13, 13, 0.651);
+}
+.main-header {
+    background:  rgba(24, 23, 23, 0.911);
+    padding: 0.3rem 0.6rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 99;
+    display: flex;
+    justify-content: flex-start;
+    font-family:  'Anton', sans-serif;
+}
+/*.main-header > div {
+    display: inline-block;
+    vertical-align: middle;*/
+
+.main-brand {
+    color: rgb(223, 223, 29);;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+@media (min-width: 40rem) {
+    .main-header {
+        background:  rgba(24, 23, 23, 0.911);
+        padding: 0.3rem 0.6rem;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        right: 0;
+        z-index: 99;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-family:  'Anton', sans-serif;
+    }
+    .modal {
+    position: fixed;
+    display: inline-block;
+  background: blanchedalmond;
+  z-index: 200;
+  left: 38%;
+  border-radius: 1rem;
+    top: 0;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+}
+.toggle-button {
+    width: 3rem;
+    background:rgb(223, 223, 29);
+    border: none;
+    cursor: pointer;
+    padding-top: 0;
+    padding-bottom: 0;
+    vertical-align: middle;
+    border-radius: 8px;
+  }
+  
+  .toggle-button:focus {
+    outline: none;
+  }
+  
+  .toggle-button__bar {
+    width: 100%;
+    height: 0.2rem;
+    background: black;
+    display: block;
+    margin: 0.6rem 0;
+  }
+@media (min-width: 40rem) {
+    .toggle-button {
+        display: none;
+    }     
+}
+  
+.main-nav {
+   display: none;
+    text-align: right; /* text-align: right; is applied looking from the dev.tools but didnt take the list to the right-hand side
+    of the page in my browser, bcos <ul> which is an inline-block element is sitting inside <nav> and hence, can only take the necessary
+    width needed. so we need to set the width of the <nav>. i.e the width of our <header> minus the width of the <div> and also remove the padding and marging
+    values that the <ul> has.*/ 
+    
+}
+.modal h1 {
+    margin-top: 10px;
+    padding: 1rem;
+}
+.modal__actions {
+    text-align: center;
+    margin: 1rem;
+}
+.modal__action {
+    display: inline-block;
+    margin-right: 1rem;
+    text-decoration: none;
+    background:  rgba(248, 182, 218, 0.856);
+    color:  rgb(83, 33, 33);
+    padding: .5rem;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+.main-nav__lis {
+    margin: 0;
+    padding: 0;
+    list-style: none; /* this also ensures that margin, border and padding are set to zero. */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.main-nav__li {
+  /*  display: inline-block; /* NB: When an element is inline-block, you can't increase its top and bottom anymore. that means even if you add padding,
+                                  it will only take effect in the left and right sides of the content*/
+    margin: 0.6rem;
+}
+@media (min-width: 40rem) {
+    .main-nav {
+    text-align: right; /* text-align: right; is applied looking from the dev.tools but didnt take the list to the right-hand side
+    of the page in my browser, bcos <ul> which is an inline-block element is sitting inside <nav> and hence, can only take the necessary
+    width needed. so we need to set the width of the <nav>. i.e the width of our <header> minus the width of the <div> and also remove the padding and marging
+    values that the <ul> has.
+    width: calc(100% - 119px);
+    vertical-align: middle; */
+    display: flex;
+    color: blanchedalmond;;
+    }
+}
+li > a,
+.mobile-nav__item a  {
+    color: blanchedalmond;;
+    text-decoration:none;
+    font-weight: bold;
+    padding: 0.2rem 0px;
+    
+
+}
+li > a:hover,
+li > a:active  { /* this is called a psuedo class. ensure there is no spacing before and after the column(:) in between the anchor tag(a) 
+                and the hover*/
+    color: white; /* Also here, I grouped two selectors since they are sharing the same rule. i.e when you hover you the anchor link, it colors
+                        white and also when the link is clicked on. */
+    border-bottom: 5px solid white;
+}
+.main-nav__li--cta a,
+.mobile-nav__item--cta a {
+    color: white;
+    background: yellowgreen;
+    padding: 0.3rem 0.6rem;
+    border-radius: 8px; /* To give the button a round edge */
+}
+.main-nav__li--cta a:hover,
+.main-nav__li--cta a:active,
+.mobile-nav__item--cta a:hover,
+.mobile-nav__item--cta a:active {/* Grouping rules here too*/
+    color:yellowgreen;
+    background: white;
+    border: none;     
+}
+.main-nav__li--cta {
+    animation: wiggle 400ms 3s 8 ease-out none;
+}
+.mobile-nav {
+    display: none;
+    position: fixed;
+    z-index: 300;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 50%;
+    height: 100vh;
+    border-radius: 16px;
+  }
+  
+  .mobile-nav__items {
+    width: 100%;
+    height: 100%;
+    list-style: none;
+    padding-left: 0.5rem;
+    padding-bottom: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .mobile-nav__item {
+    margin: 0.8rem;
+    padding-right: 0.5rem;
+  }
+  
+  .mobile-nav__item a {
+    font-size: 1.5rem;
+  }
+  .main-footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+    z-index: 50;
+    margin-top: 1.5rem;
+    background: black;
+    width: 100vw;
+}
+.main-footer__div {
+    color: blanchedalmond;
+    display: none;
+}
+@media (min-width: 40rem) {
+    .main-footer {
+          display: flex;
+          background: black;
+          width: 100vw;
+    }
+    .main-footer__nav {
+        display: flex;    
+        justify-content: space-around;
+        width: 100vw;
+
+    }
+    .main-footer__div {
+          color: blanchedalmond;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+    } 
+    .call-us {
+          text-align: center;
+          color: blanchedalmond;
+          display: none;
+}
+}
+.call-us {
+    text-align: center;
+    color: blanchedalmond;
+}
+.open {
+    display: inline-block !important;
+    opacity: 1 !important;
+    transform: translatey(0) !important;
+    /*transform: translateX(0) !important;*/
+}
+@keyframes wiggle {
+    0% {
+        transform: rotateZ(0);
+    }
+    50% {
+        transform: rotateZ(-10deg);
+    }
+    100% {
+        transform: rotateZ(10deg);
+    }
+}
